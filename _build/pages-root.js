@@ -463,11 +463,10 @@ ${PH_CSS}`;
 
     const newsCards = NEWS.slice(0, 3).map((a, i) => {
       const dateIt = new Date(a.date + 'T12:00:00').toLocaleDateString('it-IT', { month: 'long', year: 'numeric' });
-      const icons = ['fas fa-euro-sign', 'fas fa-percentage', 'fas fa-warehouse'];
       return `
       <article class="news-card reveal"${i ? ` style="transition-delay:0.${i * 12}s"` : ''}>
         <div class="news-card-img-wrap">
-          <div class="ph-block news-ph"><i class="${icons[i] || 'fas fa-hammer'}"></i></div>
+          <img class="news-card-img" src="${rel}images/${a.image}" alt="${a.imageAlt || a.h1}" loading="lazy" width="400" height="220">
         </div>
         <div class="news-card-body">
           <div class="news-card-meta">${dateIt.charAt(0).toUpperCase() + dateIt.slice(1)} &nbsp;·&nbsp; ${a.category}</div>
@@ -796,7 +795,9 @@ ${L.footer(rel, { beforeScripts, extraJs })}`;
 .content-block p{font-size:15px;color:#555;line-height:1.9;margin-bottom:16px;}
 .content-block strong{color:#a35a35;}
 .valori-section{background:#f7f1e8;padding:70px 40px;margin-top:70px;text-align:center;}
-.valori-section .section-header{margin-bottom:44px;}`;
+.valori-section .section-header{margin-bottom:44px;}
+.chi-siamo-img{max-width:860px;margin:50px auto 0;padding:0 20px;}
+.chi-siamo-img img{width:100%;height:auto;display:block;}`;
     const html = `${L.head({
       rel,
       title: "Chi Siamo | NVN Impresa Edile di Abdulai Vebi – L'Aquila",
@@ -812,6 +813,10 @@ ${L.pageBanner({ h1: 'Chi Siamo', sub: "Impresa edile a L'Aquila — precisione 
     <p><strong>NVN Impresa Edile di Abdulai Vebi</strong> è un'impresa specializzata in una vasta gamma di servizi edili, con sede ad Assergi, ai piedi del Gran Sasso, nel comune dell'Aquila. Offriamo soluzioni complete per ogni tipo di esigenza: dalla ristrutturazione integrale di case e appartamenti al singolo intervento di finitura.</p>
     <p>Ci occupiamo di <strong>ristrutturazione di edifici</strong>, compresa la ristrutturazione di bagni, <strong>rifacimento facciate</strong>, lavori di <strong>decorazione e imbiancatura</strong>. Siamo esperti nella realizzazione di <strong>tetti in legno</strong>, nella <strong>progettazione</strong> di ristrutturazioni e nuove costruzioni, e nella posa di <strong>cappotto termico</strong> per migliorare l'efficienza energetica degli edifici. Completano l'offerta i <strong>lavori in cartongesso</strong> per creare ambienti moderni e funzionali.</p>
     <p>Se desideri rinnovare la tua casa o il tuo appartamento, possiamo aiutarti a realizzare ogni tipo di intervento <strong>con precisione e professionalità</strong>, garantendo un risultato finale di qualità.</p>
+  </div>
+
+  <div class="chi-siamo-img reveal">
+    <img src="images/svc-finiture.jpg" alt="Finiture su misura realizzate da NVN Impresa Edile a L'Aquila" loading="lazy" width="800" height="600">
   </div>
 
   <div class="content-block reveal">
@@ -1005,13 +1010,12 @@ ${L.footer(rel)}`;
       { label: 'News', href: '#', path: 'news.html' },
     ];
     const schemas = [L.schemaBreadcrumb(crumbs)];
-    const icons = ['fas fa-euro-sign', 'fas fa-percentage', 'fas fa-warehouse', 'fas fa-thermometer-half', 'fas fa-layer-group'];
     const cards = NEWS.map((a, i) => {
       const dateIt = new Date(a.date + 'T12:00:00').toLocaleDateString('it-IT', { month: 'long', year: 'numeric' });
       return `
       <article class="news-card reveal"${i ? ` style="transition-delay:0.${(i % 3) * 12}s"` : ''}>
         <div class="news-card-img-wrap">
-          <div class="ph-block" style="height:220px;"><i class="${icons[i % icons.length]}"></i></div>
+          <img class="news-card-img" src="${rel}images/${a.image}" alt="${a.imageAlt || a.h1}" loading="lazy" width="400" height="220">
         </div>
         <div class="news-card-body">
           <div class="news-card-meta">${dateIt.charAt(0).toUpperCase() + dateIt.slice(1)} &nbsp;·&nbsp; ${a.category}</div>

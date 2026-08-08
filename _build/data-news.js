@@ -8,6 +8,8 @@ module.exports = [
   h1: "Quanto Costa Ristrutturare Casa a L'Aquila nel 2026",
   date: '2026-08-08',
   category: 'Costi e Preventivi',
+  image: 'feat-news-costi.jpg',
+  imageAlt: "Cantiere di ristrutturazione in corso a L'Aquila, posa pavimenti",
   excerpt: "Prezzi al metro quadro, esempi per taglio di appartamento e i fattori che fanno davvero la differenza sul preventivo: la guida completa ai costi di ristrutturazione nel territorio aquilano.",
   body: `
       <p>"Quanto mi costa ristrutturare casa?" è la prima domanda di chiunque abbia un immobile da rinnovare a L'Aquila. La risposta onesta è: dipende — ma dipende da fattori precisi, che in questa guida mettiamo in fila con fasce di prezzo reali del nostro territorio, aggiornate al 2026.</p>
@@ -43,6 +45,8 @@ module.exports = [
   h1: "Bonus Ristrutturazione 2026: la Guida per Chi Ristruttura a L'Aquila",
   date: '2026-08-08',
   category: 'Bonus e Detrazioni',
+  image: 'feat-news-bonus.jpg',
+  imageAlt: "Camino d'arredo installato in una ristrutturazione NVN Impresa Edile",
   excerpt: "Detrazione al 50% sulla prima casa, massimali, pagamenti tracciabili e documenti da conservare: tutto quello che serve sapere per non perdere i benefici fiscali sulla tua ristrutturazione.",
   body: `
       <p>Ristrutturare conviene anche fiscalmente: la normativa 2026 conferma le detrazioni per il recupero del patrimonio edilizio. Ecco come funzionano, spiegate in pratica per chi sta pianificando lavori a L'Aquila e provincia.</p>
@@ -82,6 +86,8 @@ module.exports = [
   h1: 'Tetti in Legno: Vantaggi, Costi e Perché Sceglierli in Montagna',
   date: '2026-08-08',
   category: 'Guide Tecniche',
+  image: 'feat-news-tetti.jpg',
+  imageAlt: "Struttura di copertura in legno con travi a vista, cantiere NVN Impresa Edile",
   excerpt: "Leggero, resistente, isolante e bellissimo a vista: il tetto in legno è la copertura ideale per il clima appenninico. Vantaggi, materiali e costi al metro quadro nella nostra guida.",
   body: `
       <p>Nel territorio aquilano il tetto lavora duro: neve abbondante, gelo, vento e forti escursioni termiche. Non sorprende che il <strong>tetto in legno</strong> — la soluzione tradizionale dei nostri borghi — sia tornato protagonista anche nelle costruzioni moderne. Vediamo perché, e con quali costi.</p>
@@ -121,6 +127,8 @@ module.exports = [
   h1: "Cappotto Termico a L'Aquila: Quanto si Risparmia Davvero",
   date: '2026-08-08',
   category: 'Efficienza Energetica',
+  image: 'work-cappotto-termico.jpg',
+  imageAlt: "Cappotto termico in posa su facciata, cantiere NVN Impresa Edile a L'Aquila",
   excerpt: "In uno dei capoluoghi più freddi d'Italia, isolare le pareti è l'investimento edilizio con il ritorno più alto. Numeri, spessori e costi del cappotto termico nel clima aquilano.",
   body: `
       <p>L'Aquila è, con i suoi 700 metri e passa di quota, tra i capoluoghi più freddi d'Italia: la stagione di riscaldamento dura ufficialmente da metà ottobre a metà aprile — e chiunque ci viva sa che spesso si accende anche prima. In queste condizioni, il <strong>cappotto termico</strong> non è un intervento tra tanti: è quello che rende di più.</p>
@@ -159,6 +167,8 @@ module.exports = [
   h1: 'Cartongesso: 7 Idee per Trasformare Casa',
   date: '2026-08-08',
   category: 'Idee e Ispirazioni',
+  image: 'feat-news-cartongesso.jpg',
+  imageAlt: "Struttura in cartongesso con impianti idraulici a vista, cantiere NVN Impresa Edile",
   excerpt: "Dalla veletta luminosa in soggiorno alla cabina armadio ricavata in camera: sette soluzioni in cartongesso, rapide e pulite, per cambiare volto alla casa senza demolire nulla.",
   body: `
       <p>Poche lavorazioni offrono tanto risultato con così poco cantiere: il <strong>cartongesso</strong> si monta a secco, in giorni, con polvere minima — e cambia letteralmente la percezione degli ambienti. Ecco sette idee che realizziamo più spesso nelle case aquilane, con costi indicativi.</p>

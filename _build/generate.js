@@ -21,6 +21,8 @@ const SERVIZIO_CSS = `
 .vantaggio-card i{font-size:32px;color:#a35a35;margin-bottom:16px;display:block;}
 .vantaggio-card h3{font-size:14px;letter-spacing:1.5px;text-transform:uppercase;color:#33291f;margin-bottom:10px;}
 .vantaggio-card p{font-size:13px;color:#777;line-height:1.7;}
+.servizio-feature-img{max-width:860px;margin:50px auto 0;padding:0 20px;}
+.servizio-feature-img img{width:100%;height:auto;display:block;}
 .content-block{max-width:860px;margin:70px auto 0;padding:0 20px;}
 .content-block h2{font-size:20px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#33291f;margin-bottom:22px;}
 .content-block p{font-size:15px;color:#555;line-height:1.9;margin-bottom:16px;}
@@ -75,6 +77,8 @@ const ZONA_CSS = `
 
 // CSS articoli news
 const NEWS_CSS = `
+.article-feature-img{max-width:860px;margin:50px auto 0;padding:0 20px;}
+.article-feature-img img{width:100%;height:auto;display:block;}
 .article-body{max-width:860px;margin:60px auto 0;padding:0 20px;}
 .article-body p{font-size:15px;color:#555;line-height:1.9;margin-bottom:18px;}
 .article-body h2{font-size:20px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#33291f;margin:44px 0 18px;}
@@ -136,6 +140,10 @@ ${L.pageBanner({ h1: s.h1, sub: s.bannerSub, crumbs })}
   <div class="intro-section reveal">
     ${s.intro.map(p => `<p>${p}</p>`).join('\n    ')}
   </div>
+${s.image ? `
+  <div class="servizio-feature-img reveal">
+    <img src="${rel}images/${s.image}" alt="${s.imageAlt || s.h1}" loading="lazy" width="1000" height="750">
+  </div>` : ''}
 
   <div class="vantaggi-grid">${vantaggi}
   </div>
@@ -254,6 +262,10 @@ function buildArticolo(a) {
   const html = `${L.head({ rel, title: a.title, desc: a.metaDesc, canonical, schemas, ogType: 'article', extraCss: NEWS_CSS })}
 ${L.header(rel, 'news')}
 ${L.pageBanner({ h1: a.h1, sub: `${dateIt} · ${a.category}`, crumbs })}
+${a.image ? `
+  <div class="article-feature-img reveal">
+    <img src="${rel}images/${a.image}" alt="${a.imageAlt || a.h1}" loading="lazy" width="1000" height="750">
+  </div>` : ''}
 
   <article class="article-body reveal">
     ${a.body}

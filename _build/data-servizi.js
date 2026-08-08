@@ -8,6 +8,8 @@ module.exports = [
   metaDesc: "Ristrutturazioni a L'Aquila e provincia: appartamenti, case e locali commerciali. Impresa edile NVN, lavori a regola d'arte e preventivo gratuito entro 24 ore.",
   h1: "Ristrutturazioni a L'Aquila",
   bannerSub: "Ristrutturazioni complete e parziali di case, appartamenti e locali commerciali a L'Aquila e provincia",
+  image: 'svc-ristrutturazioni.jpg',
+  imageAlt: "Ristrutturazione di interni realizzata da NVN Impresa Edile a L'Aquila",
   serviceType: 'Ristrutturazione edilizia',
   schemaDesc: "Ristrutturazioni complete e parziali di appartamenti, case e locali commerciali a L'Aquila e provincia. Sopralluogo e preventivo gratuiti.",
   intro: [
@@ -67,6 +69,8 @@ module.exports = [
   metaDesc: "Ristrutturazione chiavi in mano a L'Aquila: un unico referente dalla progettazione alla consegna. Prezzo bloccato, tempi certi. Preventivo gratuito NVN.",
   h1: "Ristrutturazione Chiavi in Mano a L'Aquila",
   bannerSub: 'Un unico interlocutore dalla progettazione alla consegna: pensiamo a tutto noi',
+  image: 'work-chiavi-in-mano.jpg',
+  imageAlt: "Ristrutturazione chiavi in mano consegnata da NVN Impresa Edile a L'Aquila",
   serviceType: 'Ristrutturazione chiavi in mano',
   schemaDesc: "Ristrutturazioni chiavi in mano a L'Aquila: progettazione, lavorazioni, coordinamento fornitori e consegna finale con un unico referente e prezzo concordato.",
   intro: [
@@ -125,6 +129,8 @@ module.exports = [
   metaDesc: "Rifacimento bagno a L'Aquila in 10-15 giorni: demolizione, impianti, piastrelle, sanitari e box doccia. Preventivo gratuito e prezzi chiari. NVN Impresa Edile.",
   h1: "Ristrutturazione Bagno a L'Aquila",
   bannerSub: 'Bagni moderni e funzionali, rifatti completamente in 10–15 giorni lavorativi',
+  image: 'work-bagno.jpg',
+  imageAlt: "Bagno ristrutturato da NVN Impresa Edile a L'Aquila",
   serviceType: 'Ristrutturazione bagno',
   schemaDesc: "Rifacimento completo del bagno a L'Aquila: demolizione, nuovi impianti, massetti, piastrelle, sanitari, box doccia e finiture. Tempi rapidi e preventivo gratuito.",
   intro: [
@@ -181,6 +187,8 @@ module.exports = [
   metaDesc: "Tetti in legno a L'Aquila: realizzazione e rifacimento coperture in legno lamellare e massello, isolamento e impermeabilizzazione. Preventivo gratuito NVN.",
   h1: "Tetti in Legno a L'Aquila",
   bannerSub: 'Realizzazione e rifacimento di coperture in legno: belle, isolate e durevoli nel clima di montagna',
+  image: 'work-tetto-legno.jpg',
+  imageAlt: "Tetto in legno con travi a vista realizzato da NVN Impresa Edile a L'Aquila",
   serviceType: 'Realizzazione e rifacimento tetti in legno',
   schemaDesc: "Realizzazione e rifacimento di tetti in legno a L'Aquila e provincia: strutture in legno lamellare e massello, pacchetti isolanti, impermeabilizzazione e manti di copertura.",
   intro: [
@@ -235,6 +243,8 @@ module.exports = [
   metaDesc: "Cappotto termico a L'Aquila: isolamento esterno EPS e lana di roccia, meno spese di riscaldamento e più comfort. Detrazioni fiscali. Preventivo gratuito NVN.",
   h1: "Cappotto Termico a L'Aquila",
   bannerSub: 'Isolamento a cappotto per tagliare le bollette e vivere meglio, in uno dei climi più freddi d’Italia',
+  image: 'work-cappotto-termico.jpg',
+  imageAlt: "Cappotto termico in posa su facciata, cantiere NVN Impresa Edile a L'Aquila",
   serviceType: 'Isolamento termico a cappotto',
   schemaDesc: "Posa di cappotto termico esterno a L'Aquila e provincia: sistemi certificati EPS, grafite e lana di roccia per ridurre i consumi di riscaldamento fino al 40%.",
   intro: [
@@ -293,6 +303,8 @@ module.exports = [
   metaDesc: "Rifacimento facciate a L'Aquila: ripristino intonaci, restauro balconi, tinteggiature esterne e facciate ventilate. Preventivo gratuito NVN Impresa Edile.",
   h1: "Rifacimento Facciate a L'Aquila",
   bannerSub: 'Ripristino intonaci, restauro balconi e tinteggiature esterne che durano nel tempo',
+  image: 'work-facciata.jpg',
+  imageAlt: "Rifacimento facciata con rivestimento in legno, cantiere NVN Impresa Edile a L'Aquila",
   serviceType: 'Rifacimento e restauro facciate',
   schemaDesc: "Rifacimento facciate a L'Aquila e provincia: ripristino di intonaci e cementi armati, restauro balconi e frontalini, tinteggiature esterne e rivestimenti.",
   intro: [
@@ -347,6 +359,8 @@ module.exports = [
   metaDesc: "Lavori in cartongesso a L'Aquila: controsoffitti con LED, pareti divisorie, librerie su misura e isolamento acustico. Preventivo gratuito NVN Impresa Edile.",
   h1: "Lavori in Cartongesso a L'Aquila",
   bannerSub: 'Controsoffitti, pareti, velette luminose e soluzioni su misura per ambienti moderni',
+  image: 'work-cartongesso.jpg',
+  imageAlt: "Struttura in cartongesso realizzata da NVN Impresa Edile a L'Aquila",
   serviceType: 'Opere in cartongesso',
   schemaDesc: "Opere in cartongesso a L'Aquila: controsoffitti con illuminazione LED, pareti divisorie, contropareti isolanti, librerie e nicchie su misura.",
   intro: [
@@ -402,6 +416,8 @@ module.exports = [
   metaDesc: "Imbiancatura e tinteggiatura a L'Aquila: interni, esterni, trattamenti antimuffa e decorativi. Lavoro pulito e veloce, preventivo gratuito NVN Impresa Edile.",
   h1: "Imbiancatura e Tinteggiatura a L'Aquila",
   bannerSub: 'Interni ed esterni, trattamenti antimuffa e finiture decorative: colore che dura',
+  image: 'work-imbiancatura.jpg',
+  imageAlt: "Interno tinteggiato da NVN Impresa Edile a L'Aquila",
   serviceType: 'Imbiancatura e tinteggiatura',
   schemaDesc: "Imbiancatura e tinteggiatura a L'Aquila: pareti interne, facciate, trattamenti antimuffa, smalti e finiture decorative con cantiere pulito e tempi rapidi.",
   intro: [
@@ -456,6 +472,8 @@ module.exports = [
   metaDesc: "Posa pavimenti e rivestimenti a L'Aquila: gres porcellanato, grandi lastre, parquet e pietra. Massetti, posa a regola d'arte e preventivo gratuito NVN.",
   h1: "Pavimenti e Rivestimenti a L'Aquila",
   bannerSub: 'Gres, grandi lastre, parquet e pietra: posa a regola d’arte che si vede e dura',
+  image: 'work-pavimenti.jpg',
+  imageAlt: "Posa di pavimenti e rivestimenti, cantiere NVN Impresa Edile a L'Aquila",
   serviceType: 'Posa pavimenti e rivestimenti',
   schemaDesc: "Posa in opera di pavimenti e rivestimenti a L'Aquila: gres porcellanato, grandi lastre, parquet, pietra naturale, massetti e sottofondi.",
   intro: [
@@ -511,6 +529,8 @@ module.exports = [
   metaDesc: "Progettazione di ristrutturazioni e nuove costruzioni a L'Aquila: rilievi, layout, pratiche edilizie e direzione lavori con tecnici partner. NVN Impresa Edile.",
   h1: "Progettazione Edile a L'Aquila",
   bannerSub: 'Dal rilievo al progetto, dalle pratiche al cantiere: costruiamo il percorso prima delle pareti',
+  image: 'feat-progettazione.jpg',
+  imageAlt: "Nuova costruzione in legno progettata e realizzata da NVN Impresa Edile a L'Aquila",
   serviceType: 'Progettazione edile',
   schemaDesc: "Progettazione di ristrutturazioni e nuove costruzioni a L'Aquila: rilievi, studi di layout, pratiche edilizie e coordinamento con tecnici abilitati.",
   intro: [
