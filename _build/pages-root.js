@@ -479,7 +479,7 @@ ${PH_CSS}`;
     }).join('\n');
 
     const faqs = [
-      { q: 'In quali zone operate per le ristrutturazioni?', a: `Operiamo a <strong>L'Aquila</strong> e in tutta la provincia: Assergi, Paganica, Coppito, Sassa, Pizzoli, Scoppito, Tornimparte, Lucoli, Barisciano, Rocca di Mezzo, fino ad Avezzano e alla Marsica.` },
+      { q: 'In quali zone operate per le ristrutturazioni?', a: `Operiamo a <strong>L'Aquila</strong> e nei comuni limitrofi entro circa 15 km da Assergi: Paganica, Coppito, Sassa, Preturo, Pizzoli, Scoppito e Barisciano.` },
       { q: 'Come posso richiedere un preventivo gratuito?', a: `Puoi compilare il modulo direttamente su questo sito, chiamarci al <strong>${L.S.telDisplay}</strong>, scriverci su WhatsApp oppure a <strong>${L.S.email}</strong>. Risponderemo entro 24 ore lavorative.` },
       { q: 'Quali lavori edili eseguite?', a: `Eseguiamo <strong>ristrutturazioni complete</strong> di appartamenti e case, rifacimento bagni, tetti in legno, cappotto termico, rifacimento facciate, opere in cartongesso, imbiancatura e tinteggiatura, posa di pavimenti e rivestimenti, progettazione.` },
       { q: 'Gestite le pratiche per i bonus fiscali?', a: `Sì: con i nostri tecnici partner ti supportiamo su pratiche edilizie (CILA, SCIA) e sulla documentazione per le <strong>detrazioni fiscali</strong> previste dalla normativa vigente — fatture corrette, bonifici parlanti e comunicazioni.` },
@@ -632,7 +632,7 @@ ${L.prevaiSection(rel)}
         NVN Impresa Edile di <strong>Abdulai Vebi</strong> è un'impresa specializzata in una vasta gamma di servizi edili, con sede a <strong>L'Aquila</strong>, ad Assergi, ai piedi del Gran Sasso. Seguiamo ogni progetto dal sopralluogo iniziale fino alla consegna del lavoro finito, garantendo puntualità, trasparenza e lavorazioni a regola d'arte.
       </p>
       <p class="professionisti-text" style="margin-top:14px;">
-        Operiamo a <strong>L'Aquila e in tutta la provincia</strong> — Assergi, Paganica, Coppito, Sassa, Pizzoli, Scoppito, Tornimparte, Lucoli, Barisciano, Rocca di Mezzo, Avezzano e molti altri — con una conoscenza approfondita del territorio, dei suoi edifici e del suo clima.
+        Operiamo a <strong>L'Aquila e nei comuni limitrofi</strong> entro circa 15 km da Assergi — Paganica, Coppito, Sassa, Preturo, Pizzoli, Scoppito, Barisciano e le altre frazioni del territorio — con una conoscenza approfondita degli edifici e del clima locale.
       </p>
     </div>
   </section>
@@ -972,7 +972,7 @@ ${L.footer(rel)}`;
     const html = `${L.head({
       rel,
       title: "Zone Servite | Impresa Edile L'Aquila e Provincia – NVN",
-      desc: "NVN Impresa Edile opera a L'Aquila e provincia: Assergi, Paganica, Coppito, Sassa, Pizzoli, Scoppito, Tornimparte, Lucoli, Barisciano, Rocca di Mezzo e Avezzano.",
+      desc: "NVN Impresa Edile opera a L'Aquila e nei comuni limitrofi entro 15 km: Assergi, Paganica, Coppito, Sassa, Preturo, Pizzoli, Scoppito e Barisciano.",
       canonical: 'zone.html',
       schemas,
       extraCss: `${INTRO_CSS}${SERVIZI_GRID_CSS}`,
@@ -981,7 +981,7 @@ ${L.header(rel, 'zone')}
 ${L.pageBanner({ h1: 'Zone Servite', sub: "L'Aquila, le frazioni e i comuni della provincia", crumbs })}
 
   <div class="intro-section reveal">
-    <p>NVN Impresa Edile ha sede ad <strong>Assergi</strong>, nel comune dell'Aquila, e opera in tutto il territorio aquilano: la città e le sue frazioni, i comuni della conca e dell'alta valle dell'Aterno, l'Altopiano delle Rocche e, per i progetti più strutturati, la Marsica con Avezzano.</p>
+    <p>NVN Impresa Edile ha sede ad <strong>Assergi</strong>, nel comune dell'Aquila, e opera in un raggio di circa 15 km: la città con le sue frazioni principali e i comuni limitrofi della conca aquilana e dell'alta valle dell'Aterno.</p>
     <p>Essere un'impresa <strong>del territorio</strong> significa sopralluoghi rapidi, cantieri presidiati ogni giorno e la conoscenza diretta di edifici, clima e fornitori locali. Seleziona la tua zona per scoprire i servizi dedicati.</p>
   </div>
 
@@ -1053,7 +1053,7 @@ ${L.footer(rel)}`;
     ];
     const faqs = [
       { q: 'Il preventivo è gratuito?', a: `Sì, sempre: sopralluogo e preventivo dettagliato sono <strong>gratuiti e senza impegno</strong>, a L'Aquila e in tutta la provincia. Rispondiamo alle richieste entro 24 ore.` },
-      { q: 'In quali zone operate?', a: `In tutto il territorio aquilano: <strong>L'Aquila</strong> e le sue frazioni (Assergi, Paganica, Coppito, Sassa e le altre), i comuni della conca e dell'alta valle dell'Aterno, l'Altopiano delle Rocche e la Marsica con Avezzano.` },
+      { q: 'In quali zone operate?', a: `In un raggio di circa 15 km da Assergi: <strong>L'Aquila</strong> e le sue frazioni (Paganica, Coppito, Sassa, Preturo e le altre), oltre ai comuni limitrofi di Pizzoli, Scoppito e Barisciano.` },
       { q: 'Che tipo di lavori eseguite?', a: `<strong>Ristrutturazioni complete e parziali</strong>, ristrutturazione bagni, tetti in legno, cappotto termico, rifacimento facciate, opere in cartongesso, imbiancatura e tinteggiatura, posa di pavimenti e rivestimenti, progettazione con tecnici partner.` },
       { q: 'Quanto costa una ristrutturazione completa?', a: `Indicativamente <strong>450–700 €/mq</strong> per un livello standard e 700–1.000+ €/mq con finiture di pregio. Gli interventi parziali partono da 250 €/mq. Il preventivo esatto viene definito dopo il sopralluogo gratuito.` },
       { q: 'Quanto durano i lavori?', a: `Un bagno completo richiede <strong>10–15 giorni lavorativi</strong>, un appartamento medio 8–12 settimane, un'imbiancatura 3–5 giorni. Prima di iniziare concordiamo un cronoprogramma con data di consegna.` },
@@ -1106,7 +1106,7 @@ ${L.footer(rel)}`;
       { txt: '"Tetto in legno rifatto a regola d\'arte: preventivo rispettato al centesimo e cantiere sempre in ordine. Consigliati."', a: "G. — Provincia dell'Aquila" },
       { txt: '"Imbiancatura e cartongesso in tutta casa: puntuali, precisi e attenti a proteggere mobili e pavimenti. Risultato eccellente."', a: "S. — L'Aquila" },
       { txt: '"Cappotto termico sulla nostra villetta: già dal primo inverno la differenza in bolletta si è vista. Professionali dall\'inizio alla fine."', a: 'A. — Conca aquilana' },
-      { txt: '"Seguivano i lavori della nostra seconda casa mentre eravamo a Roma: foto continue, zero pensieri e casa perfetta al nostro arrivo."', a: 'F. — Altopiano delle Rocche' },
+      { txt: '"Seguivano i lavori della nostra seconda casa mentre eravamo fuori regione: foto continue, zero pensieri e casa perfetta al nostro arrivo."', a: 'F. — Pizzoli' },
       { txt: '"Preventivo chiaro, nessuna sorpresa e grande disponibilità a spiegare ogni scelta. Così dovrebbe lavorare ogni impresa."', a: "L. — L'Aquila" },
     ].map((r, i) => `
       <article class="recensione-card reveal"${i ? ` style="transition-delay:0.${i % 3}s"` : ''}>

@@ -136,40 +136,21 @@ module.exports = [
 },
 // ============================================================
 {
-  slug: 'ristrutturazioni-tornimparte',
-  label: 'Tornimparte',
-  title: "Ristrutturazioni Tornimparte | Impresa Edile – NVN L'Aquila",
-  metaDesc: "Impresa edile a Tornimparte (AQ): ristrutturazioni case di paese, tetti in legno, cappotto termico e bagni in tutte le frazioni. Preventivo gratuito NVN.",
-  h1: "Ristrutturazioni a Tornimparte",
-  bannerSub: "Un comune di borghi e frazioni: ristrutturazioni che rispettano la pietra e il paesaggio",
+  slug: 'ristrutturazioni-preturo',
+  label: 'Preturo',
+  title: "Ristrutturazioni Preturo | Impresa Edile – NVN L'Aquila",
+  metaDesc: "Impresa edile a Preturo (L'Aquila): ristrutturazioni case e villette, bagni, cartongesso e cappotto termico tra Sassa e Coppito. Preventivo gratuito NVN.",
+  h1: "Ristrutturazioni a Preturo",
+  bannerSub: "Tra Sassa e Coppito, ristrutturazioni per case e villette a pochi minuti dal centro",
   intro: [
-    "<strong>Tornimparte</strong> è un comune fatto di frazioni — Villagrande, Colle San Vito, Piedi la Villa, Molata, Forcelle e molte altre — adagiate sulle pendici tra la valle dell'Aterno e i monti verso Campo Felice. Case in pietra, borghi antichi e seconde case di chi ama la montagna: un patrimonio che merita mani esperte.",
-    "NVN Impresa Edile interviene a Tornimparte con i lavori tipici di questo territorio: <strong>risanamento di case in pietra, rifacimento di tetti in legno, isolamenti termici, bagni nuovi e imbiancature</strong>. Per gli edifici storici — nel comune degli affreschi di Saturnino Gatti — curiamo finiture rispettose del carattere dei borghi.",
-    "Molti proprietari vivono fuori e usano la casa nei weekend o d'estate: per loro seguiamo i lavori <strong>interamente a distanza</strong>, con aggiornamenti fotografici e consegna a data concordata."
+    "<strong>Preturo</strong> è una delle frazioni più vicine al centro dell'Aquila, lungo la via Amiternina tra Coppito e Sassa: un territorio di villette, case unifamiliari e piccoli condomini, cresciuto negli ultimi decenni senza perdere il suo carattere di paese. NVN Impresa Edile ci lavora con grande regolarità, essendo a pochi minuti sia dalla città che dalla nostra sede di Assergi.",
+    "A Preturo le richieste più frequenti riguardano <strong>ristrutturazioni di villette</strong>: rifacimento bagni, cartongesso per ricavare nuovi spazi, cappotto termico e tinteggiature, oltre a piccoli ampliamenti e sistemazioni di taverne e locali accessori. Realizziamo anche interventi di manutenzione ordinaria per chi affitta o gestisce più immobili nella zona.",
+    "Come sempre: <strong>sopralluogo gratuito, preventivo dettagliato voce per voce</strong> e un referente unico che segue il cantiere dall'inizio alla consegna."
   ],
   faqs: [
-    { q: "Operate in tutte le frazioni di Tornimparte?", a: "Sì: Villagrande, Colle San Vito, Piedi la Villa, Molata, Forcelle, Rocca Santo Stefano e tutte le altre località del comune, fino a Campo Felice." },
-    { q: "Ristrutturate seconde case a Tornimparte anche se vivo fuori?", a: "Sì: è il caso più frequente. Definiamo lavori e budget, poi seguiamo tutto noi con report fotografici periodici; tu trovi la casa pronta quando arrivi." },
-    { q: "Che interventi consigliate su una casa in pietra di Tornimparte?", a: "Tipicamente: verifica e rifacimento del tetto in legno, risanamento delle murature dall'umidità, impianti nuovi, isolamento interno o a cappotto e finiture in linea con il borgo. Il sopralluogo gratuito ci permette di definire priorità e costi." },
-  ],
-},
-// ============================================================
-{
-  slug: 'ristrutturazioni-lucoli',
-  label: 'Lucoli',
-  title: "Ristrutturazioni Lucoli | Impresa Edile – NVN L'Aquila",
-  metaDesc: "Impresa edile a Lucoli (AQ): ristrutturazioni case di montagna, tetti in legno, isolamento termico e bagni, da Casamaina a Campo Felice. Preventivo gratuito.",
-  h1: "Ristrutturazioni a Lucoli",
-  bannerSub: "Case di montagna e borghi storici tra la valle e Campo Felice",
-  intro: [
-    "<strong>Lucoli</strong> si distende lungo la valle omonima, dalla storica abbazia di San Giovanni Battista su su fino a Casamaina e agli impianti di Campo Felice: un territorio di borghi in pietra, case di villeggiatura e natura d'alta quota. NVN Impresa Edile è l'impresa di riferimento per chi qui vuole ristrutturare con criterio.",
-    "Le case di Lucoli chiedono lavori da montagna vera: <strong>tetti in legno robusti e coibentati</strong> per reggere neve e gelo, <strong>isolamenti termici</strong> per serate a -10°, <strong>bagni e interni</strong> caldi e accoglienti per la stagione sciistica e l'estate. Sono esattamente i lavori che sappiamo fare meglio.",
-    "Che si tratti della casa di famiglia a Collimento, di una seconda casa a Casamaina o di un appartamento vicino alle piste, garantiamo sopralluogo gratuito, preventivo chiaro e la possibilità di seguire tutto a distanza."
-  ],
-  faqs: [
-    { q: "Ristrutturate le case vicino a Campo Felice?", a: "Sì: seconde case e appartamenti di villeggiatura a Casamaina e in tutta la valle di Lucoli sono tra i nostri cantieri abituali. Organizziamo i lavori fuori stagione per trovarti la casa pronta quando serve." },
-    { q: "Quali sono le priorità per una casa di montagna a Lucoli?", a: "Tetto coibentato e in ordine, isolamento delle pareti, serramenti efficienti e un impianto di riscaldamento adeguato: con questi quattro elementi la casa diventa confortevole e le spese crollano." },
-    { q: "Coprite tutte le frazioni di Lucoli?", a: "Sì: Collimento, Casamaina, Santa Croce, Peschiolo, Vado Lucoli, Prata e le altre località del comune, fino agli impianti di Campo Felice." },
+    { q: "Quanto ci mettete ad arrivare a Preturo per un sopralluogo?", a: "Pochi minuti, sia dal centro dell'Aquila che dalla nostra sede di Assergi: fissiamo il sopralluogo generalmente entro 24–48 ore dalla richiesta." },
+    { q: "Ristrutturate villette con taverna o locali accessori a Preturo?", a: "Sì: è una richiesta frequente in questa zona. Sistemiamo taverne, garage e locali di sgombero trasformandoli in spazi vivibili, con isolamento, impianti e finiture adeguate." },
+    { q: "Lavorate anche nelle zone limitrofe a Preturo?", a: "Sì: Sassa, Coppito, Cansatessa e Bazzano sono tutte zone in cui interveniamo abitualmente, con la stessa rapidità di risposta." },
   ],
 },
 // ============================================================
@@ -189,44 +170,6 @@ module.exports = [
     { q: "Ristrutturate case in pietra a Barisciano e Picenze?", a: "Sì: murature in pietra, solai e tetti in legno, intonaci traspiranti e finiture coerenti con i borghi sono il nostro pane quotidiano su questo versante del Gran Sasso." },
     { q: "Quanto dista Barisciano dalla vostra sede?", a: "Circa un quarto d'ora da Assergi: sopralluoghi rapidi e cantiere presidiato con costanza, senza costi di trasferta ingiustificati." },
     { q: "Seguite anche acquirenti che hanno appena comprato casa nel borgo?", a: "Sì: partiamo dalla valutazione dell'immobile, definiamo insieme priorità e budget e consegniamo la casa finita, anche con formula chiavi in mano se preferisci un unico referente per tutto." },
-  ],
-},
-// ============================================================
-{
-  slug: 'ristrutturazioni-rocca-di-mezzo',
-  label: 'Rocca di Mezzo',
-  title: "Ristrutturazioni Rocca di Mezzo | Impresa Edile – NVN L'Aquila",
-  metaDesc: "Impresa edile a Rocca di Mezzo e Altopiano delle Rocche (AQ): ristrutturazioni seconde case, tetti in legno e isolamento termico. Preventivo gratuito NVN.",
-  h1: "Ristrutturazioni a Rocca di Mezzo",
-  bannerSub: "Seconde case e chalet dell'Altopiano delle Rocche: comfort di montagna, tutto l'anno",
-  intro: [
-    "<strong>Rocca di Mezzo</strong> è il cuore dell'Altopiano delle Rocche, a 1.300 metri di quota tra il Sirente e il Velino: un territorio di villeggiatura storica, con Rovere, Terranera e Fonteavignone, a due passi da Ovindoli e Campo Felice. Qui le case lavorano tutto l'anno: inverni da sci, estati fresche — e manutenzioni che non perdonano chi le trascura.",
-    "NVN Impresa Edile è specializzata proprio nei lavori che servono a queste quote: <strong>tetti in legno dimensionati per la neve, cappotti e isolamenti termici, bagni nuovi, cartongessi e imbiancature</strong>. Ristrutturiamo appartamenti in condominio, villette e chalet, con materiali adatti al gelo e alle escursioni termiche dell'altopiano.",
-    "La maggior parte dei proprietari vive a Roma, Pescara o L'Aquila: per loro seguiamo l'intero cantiere <strong>a distanza</strong>, con foto, videochiamate e consegna nella data concordata — magari giusto in tempo per la prima nevicata."
-  ],
-  faqs: [
-    { q: "Ristrutturate seconde case a Rocca di Mezzo e Ovindoli?", a: "Sì, è la nostra attività principale sull'Altopiano delle Rocche: appartamenti, villette e chalet a Rocca di Mezzo, Rovere, Terranera, Fonteavignone e Ovindoli, seguiti anche interamente a distanza." },
-    { q: "Quando conviene fare i lavori in una casa dell'altopiano?", a: "Le stagioni ideali sono primavera e autunno, fuori dai periodi di villeggiatura: pianificando per tempo trovi la casa pronta per l'inverno o per l'estate, senza rinunciare a un solo weekend." },
-    { q: "I vostri tetti reggono la neve dell'Altopiano delle Rocche?", a: "Sì: dimensioniamo strutture e pacchetti secondo i carichi di neve di zona, tra i più severi d'Italia, con legni certificati, ventilazione corretta e lattonerie a prova di gelo." },
-  ],
-},
-// ============================================================
-{
-  slug: 'ristrutturazioni-avezzano',
-  label: 'Avezzano',
-  title: "Ristrutturazioni Avezzano | Impresa Edile – NVN L'Aquila",
-  metaDesc: "Impresa edile ad Avezzano e nella Marsica (AQ): ristrutturazioni complete, bagni, cartongesso, facciate e cappotto termico. Sopralluogo e preventivo gratuiti.",
-  h1: "Ristrutturazioni ad Avezzano",
-  bannerSub: "Nella capitale della Marsica: ristrutturazioni per una città moderna e in crescita",
-  intro: [
-    "<strong>Avezzano</strong> è la seconda città della provincia e il cuore pulsante della Marsica: una città moderna, ricostruita dopo il terremoto del 1915, con condomini, villette e attività commerciali in continua evoluzione. NVN Impresa Edile estende qui i propri servizi con la stessa qualità che ci contraddistingue nell'Aquilano.",
-    "Ad Avezzano il patrimonio edilizio è prevalentemente novecentesco: <strong>appartamenti da ammodernare negli impianti e nelle finiture, condomini che necessitano di facciate e cappotti termici, villette da rinnovare</strong>. Eseguiamo ristrutturazioni complete e parziali, bagni, cartongessi, imbiancature e rifacimenti di coperture.",
-    "Serviamo anche i centri della Marsica — Celano, Luco dei Marsi, Trasacco, Capistrello e la piana del Fucino — con sopralluoghi programmati e cantieri organizzati per lavorare in trasferta senza perdere un colpo."
-  ],
-  faqs: [
-    { q: "Coprite Avezzano pur avendo sede a L'Aquila?", a: "Sì: Avezzano dista circa 50 minuti dalla nostra sede e ci lavoriamo con cantieri organizzati su base settimanale. Per ristrutturazioni complete e lavori condominiali la trasferta non incide sul preventivo." },
-    { q: "Fate lavori condominiali ad Avezzano?", a: "Sì: rifacimento facciate, cappotti termici, ripristino balconi e tinteggiature di parti comuni, con documentazione chiara per l'assemblea e un referente unico per l'amministratore." },
-    { q: "Servite anche gli altri comuni della Marsica?", a: "Sì: Celano, Luco dei Marsi, Trasacco, Capistrello e gli altri centri del Fucino. Per i lavori più piccoli valutiamo caso per caso in base alla distanza; il preventivo resta sempre gratuito." },
   ],
 },
 ];

@@ -110,19 +110,19 @@ const SERVIZI_NAV = [
 ];
 
 // ---------- NAV: ZONE ----------
+// Raggio di servizio reale: L'Aquila (con le sue frazioni principali) e i
+// comuni limitrofi entro circa 15 km da Assergi/L'Aquila. Elenco volutamente
+// corto: solo i centri piu' rilevanti, non ogni singola frazione.
 const ZONE_NAV = [
   { slug: 'ristrutturazioni-laquila', label: "L'Aquila" },
   { slug: 'ristrutturazioni-assergi', label: 'Assergi' },
   { slug: 'ristrutturazioni-paganica', label: 'Paganica' },
   { slug: 'ristrutturazioni-coppito', label: 'Coppito' },
   { slug: 'ristrutturazioni-sassa', label: 'Sassa' },
+  { slug: 'ristrutturazioni-preturo', label: 'Preturo' },
   { slug: 'ristrutturazioni-pizzoli', label: 'Pizzoli' },
   { slug: 'ristrutturazioni-scoppito', label: 'Scoppito' },
-  { slug: 'ristrutturazioni-tornimparte', label: 'Tornimparte' },
-  { slug: 'ristrutturazioni-lucoli', label: 'Lucoli' },
   { slug: 'ristrutturazioni-barisciano', label: 'Barisciano' },
-  { slug: 'ristrutturazioni-rocca-di-mezzo', label: 'Rocca di Mezzo' },
-  { slug: 'ristrutturazioni-avezzano', label: 'Avezzano' },
 ];
 
 // ---------- HEAD ----------
