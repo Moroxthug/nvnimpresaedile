@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 110" role="img" aria-label="NVN Impresa Edile">
+  <!-- Tetti stilizzati (placeholder — sostituire con logo ufficiale) -->
+  <g fill="#E30613">
+    <path d="M28 38 L58 12 L88 38 L78 38 L58 21 L38 38 Z"/>
+    <path d="M52 44 L78 22 L104 44 L95 44 L78 30 L61 44 Z"/>
+    <path d="M10 46 Q40 34 70 42 Q100 50 118 40 L118 46 Q95 56 65 48 Q35 40 10 52 Z" opacity="0.9"/>
+  </g>
+  <!-- Testo NVN -->
+  <text x="132" y="52" font-family="Oswald, Arial Narrow, sans-serif" font-size="46" font-weight="700" letter-spacing="4" fill="#14181D">NVN</text>
+  <rect x="132" y="62" width="196" height="2.5" fill="#14181D"/>
+  <text x="132" y="88" font-family="Oswald, Arial Narrow, sans-serif" font-size="19" font-weight="500" letter-spacing="6.5" fill="#14181D">IMPRESA EDILE</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#14181D"/>
+  <path d="M12 34 L32 16 L52 34 L45 34 L32 22 L19 34 Z" fill="#E30613"/>
+  <text x="32" y="52" text-anchor="middle" font-family="Oswald, Arial Narrow, sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="#FFFFFF">NVN</text>
+</svg>

@@ -1,0 +1,5 @@
+node_modules/
+_build/photos-src/
+_build/contact-sheets/
+.DS_Store
+Thumbs.db
