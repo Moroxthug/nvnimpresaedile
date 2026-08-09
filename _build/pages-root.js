@@ -1139,6 +1139,7 @@ ${L.pageBanner({ h1: 'Le Recensioni dei Clienti', sub: 'La soddisfazione di chi 
 
   <div class="intro-section reveal" style="text-align:center;margin-top:0;padding-top:50px;">
     <p><strong>Hai lavorato con noi?</strong> La tua opinione conta: <a href="https://www.paginegialle.it/nvn-di-abdulai-vebi-impresa-edile-l-aquila/commenti" rel="noopener" target="_blank">lascia una recensione su PagineGialle</a> o contattaci per raccontarci la tua esperienza.</p>
+    <p>Trovi altre recensioni verificate dei nostri clienti anche su <a href="https://www.instapro.it/costruzione-ristrutturazione-casa/impresa-edile-professionisti/l-aquila" rel="noopener" target="_blank">Instapro</a> ed <a href="https://www.edilnet.it/aziende/nuove_costruzioni/l'aquila/l'aquila/" rel="noopener" target="_blank">Edilnet</a>.</p>
   </div>
 ${L.ctaSection(rel)}
 ${L.footer(rel)}`;
