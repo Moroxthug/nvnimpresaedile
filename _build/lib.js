@@ -169,7 +169,7 @@ ${o.keywords ? `<meta name="keywords" content="${o.keywords}">\n` : ''}<meta nam
 <meta property="og:url" content="${S.site}/${o.canonical}">
 <meta property="og:title" content="${o.ogTitle || o.title}">
 <meta property="og:description" content="${o.ogDesc || o.desc}">
-<meta property="og:image" content="${S.site}/images/logo.svg">
+<meta property="og:image" content="${S.site}/images/${o.ogImage || 'hero-nuova-costruzione.jpg'}">
 <meta property="og:locale" content="it_IT">
 <meta property="og:site_name" content="${S.name}">
 
@@ -181,7 +181,7 @@ ${o.keywords ? `<meta name="keywords" content="${o.keywords}">\n` : ''}<meta nam
 <!-- ===== PERFORMANCE: PRECONNECT ===== -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
 
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@300;400;500;600;700&family=Karla:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/fontawesome.min.css">
@@ -432,6 +432,7 @@ function schemaArticle(o) {
     '@type': 'Article',
     headline: o.headline,
     description: o.description,
+    image: o.image ? [`${S.site}/images/${o.image}`] : undefined,
     datePublished: o.date,
     dateModified: o.date,
     inLanguage: 'it-IT',

@@ -572,7 +572,8 @@ inlineFormEl.addEventListener('submit',(e)=>{e.preventDefault();nvnSendWhatsApp(
     const html = `${L.head({
       rel,
       title: "NVN Impresa Edile | Impresa Edile L'Aquila",
-      desc: "NVN Impresa Edile di Abdulai Vebi: ristrutturazioni di edifici, tetti in legno, cartongesso, imbiancatura, rifacimento facciate, cappotto termico e progettazione a L'Aquila e provincia. Preventivo gratuito.",
+      desc: "NVN Impresa Edile di Abdulai Vebi: ristrutturazioni, tetti in legno, cartongesso, cappotto termico e progettazione a L'Aquila e provincia. Preventivo gratuito.",
+      ogImage: 'hero-nuova-costruzione.jpg',
       keywords: "impresa edile L'Aquila, ristrutturazioni L'Aquila, edilizia L'Aquila, tetti in legno L'Aquila, cappotto termico L'Aquila, cartongesso L'Aquila, imbiancatura L'Aquila, rifacimento facciate L'Aquila, ristrutturazione bagno L'Aquila, impresa edile Abruzzo, preventivo ristrutturazione L'Aquila, NVN Impresa Edile",
       canonical: '',
       schemas,
@@ -801,9 +802,10 @@ ${L.footer(rel, { beforeScripts, extraJs })}`;
     const html = `${L.head({
       rel,
       title: "Chi Siamo | NVN Impresa Edile di Abdulai Vebi – L'Aquila",
-      desc: "NVN Impresa Edile di Abdulai Vebi, con sede a L'Aquila (Assergi): storia, valori e metodo di lavoro di un'impresa specializzata in ristrutturazioni e lavori edili.",
+      desc: "NVN Impresa Edile di Abdulai Vebi, con sede a L'Aquila (Assergi): storia, valori e metodo di lavoro di un'impresa edile specializzata in ristrutturazioni.",
       canonical: 'chi-siamo.html',
       schemas,
+      ogImage: 'attrezzatura-laser.jpg',
       extraCss: CSS,
     })}
 ${L.header(rel, 'chi-siamo')}
@@ -828,6 +830,16 @@ ${L.pageBanner({ h1: 'Chi Siamo', sub: "Impresa edile a L'Aquila — precisione 
   <div class="content-block reveal">
     <h2>Il Territorio è la Nostra Forza</h2>
     <p>Operare a L'Aquila e nella sua provincia significa conoscere un patrimonio edilizio unico: case in pietra dei borghi, edifici ricostruiti dopo il sisma, condomini da riqualificare energeticamente, seconde case di montagna. La nostra sede ad Assergi ci mette al centro di questo territorio: <strong>sopralluoghi rapidi, presenza costante in cantiere</strong> e rapporti diretti con tecnici e fornitori locali.</p>
+  </div>
+
+  <div class="content-block reveal">
+    <h2>Abdulai Vebi, il Titolare</h2>
+    <p><strong>Abdulai Vebi</strong> segue personalmente ogni cantiere aperto da NVN Impresa Edile, dal sopralluogo iniziale alla consegna delle chiavi. Un'impresa a conduzione diretta, senza intermediari tra il cliente e chi materialmente coordina i lavori: è questo il metodo su cui è cresciuta l'attività, cantiere dopo cantiere, nel territorio aquilano.</p>
+  </div>
+
+  <div class="content-block reveal">
+    <h2>Regolarità e Garanzie</h2>
+    <p>NVN Impresa Edile opera con <strong>Partita IVA 02156880664</strong>, in regola con gli obblighi contributivi e assicurativi previsti per le imprese edili. Ogni intervento è coperto dalla <strong>garanzia legale</strong> prevista dal Codice Civile per le opere edili, e ogni fattura è emessa con le diciture corrette per l'accesso alle <a href="news/bonus-ristrutturazione-2026-laquila.html">detrazioni fiscali vigenti</a>. Lavoriamo solo con pagamenti tracciabili e documentazione completa, a tutela del cliente e della sua pratica fiscale.</p>
   </div>
 
   <section class="valori-section">
@@ -889,10 +901,11 @@ ${L.footer(rel)}`;
 
     const html = `${L.head({
       rel,
-      title: "Servizi Edili L'Aquila | Ristrutturazioni, Tetti, Cartongesso – NVN",
-      desc: "Tutti i servizi di NVN Impresa Edile a L'Aquila: ristrutturazioni complete, bagni, tetti in legno, cappotto termico, cartongesso, facciate, imbiancatura e progettazione.",
+      title: "Servizi Edili L'Aquila | Ristrutturazioni e Tetti – NVN",
+      desc: "Tutti i servizi di NVN Impresa Edile a L'Aquila: ristrutturazioni complete, bagni, tetti in legno, cappotto termico, cartongesso, facciate e imbiancatura.",
       canonical: 'servizi.html',
       schemas,
+      ogImage: 'svc-ristrutturazioni.jpg',
       extraCss: `${INTRO_CSS}${SERVIZI_GRID_CSS}`,
     })}
 ${L.header(rel, 'servizi')}
@@ -946,6 +959,7 @@ ${L.footer(rel)}`;
       desc: "Una selezione dei lavori di NVN Impresa Edile a L'Aquila e provincia: ristrutturazioni, tetti in legno, bagni, cappotti termici, cartongesso e facciate.",
       canonical: 'lavori.html',
       schemas,
+      ogImage: 'work-ristrutturazione-completa.jpg',
       extraCss: CSS,
     })}
 ${L.header(rel, 'lavori')}
@@ -1028,10 +1042,11 @@ ${L.footer(rel)}`;
 
     const html = `${L.head({
       rel,
-      title: "News e Guide | Ristrutturazioni e Casa – NVN Impresa Edile L'Aquila",
+      title: "News e Guide | Ristrutturazioni e Casa – NVN L'Aquila",
       desc: "Guide, costi e consigli pratici su ristrutturazioni, tetti in legno, cappotto termico, cartongesso e bonus casa: il blog di NVN Impresa Edile, L'Aquila.",
       canonical: 'news.html',
       schemas,
+      ogImage: 'feat-news-costi.jpg',
       extraCss: PH_CSS,
     })}
 ${L.header(rel, 'news')}

@@ -3,7 +3,7 @@ module.exports = [
 // ============================================================
 {
   slug: 'quanto-costa-ristrutturare-casa-laquila',
-  title: "Quanto Costa Ristrutturare Casa a L'Aquila nel 2026 | Guida ai Prezzi",
+  title: "Quanto Costa Ristrutturare Casa a L'Aquila nel 2026",
   metaDesc: "Quanto costa ristrutturare casa a L'Aquila nel 2026: prezzi al mq per ristrutturazioni complete e parziali, esempi reali e consigli per risparmiare.",
   h1: "Quanto Costa Ristrutturare Casa a L'Aquila nel 2026",
   date: '2026-08-08',
@@ -82,7 +82,7 @@ module.exports = [
 {
   slug: 'tetti-in-legno-vantaggi-costi',
   title: 'Tetti in Legno: Vantaggi, Costi e Perché Sceglierli in Montagna',
-  metaDesc: "Tetto in legno: vantaggi, costi al mq, lamellare o massello, tetto ventilato e durata. La guida di NVN Impresa Edile per chi costruisce o rifà il tetto a L'Aquila.",
+  metaDesc: "Tetto in legno: vantaggi, costi al mq, lamellare o massello, tetto ventilato e durata. La guida di NVN Impresa Edile per chi rifà il tetto a L'Aquila.",
   h1: 'Tetti in Legno: Vantaggi, Costi e Perché Sceglierli in Montagna',
   date: '2026-08-08',
   category: 'Guide Tecniche',
@@ -123,7 +123,7 @@ module.exports = [
 {
   slug: 'cappotto-termico-conviene-laquila',
   title: "Cappotto Termico a L'Aquila: Quanto si Risparmia Davvero",
-  metaDesc: "Cappotto termico a L'Aquila: risparmio reale in bolletta, costi al mq, spessori consigliati per il clima di montagna e detrazioni. La guida di NVN Impresa Edile.",
+  metaDesc: "Cappotto termico a L'Aquila: risparmio reale in bolletta, costi al mq, spessori consigliati per il clima di montagna e detrazioni fiscali.",
   h1: "Cappotto Termico a L'Aquila: Quanto si Risparmia Davvero",
   date: '2026-08-08',
   category: 'Efficienza Energetica',
@@ -162,8 +162,8 @@ module.exports = [
 // ============================================================
 {
   slug: 'cartongesso-pareti-controsoffitti-guida',
-  title: 'Cartongesso: 7 Idee per Trasformare Casa con Pareti e Controsoffitti',
-  metaDesc: "Cartongesso in casa: controsoffitti con LED, pareti divisorie, contropareti isolanti, librerie su misura. 7 idee con costi indicativi da NVN Impresa Edile, L'Aquila.",
+  title: 'Cartongesso: 7 Idee per Trasformare Casa',
+  metaDesc: "Cartongesso in casa: controsoffitti con LED, pareti divisorie, contropareti isolanti, librerie su misura. 7 idee con costi indicativi da NVN Impresa Edile.",
   h1: 'Cartongesso: 7 Idee per Trasformare Casa',
   date: '2026-08-08',
   category: 'Idee e Ispirazioni',
@@ -197,5 +197,300 @@ module.exports = [
       <h2>Perché Farlo Fare a un'Impresa</h2>
       <p>Il cartongesso sembra semplice — finché non si vedono giunti crepati, lastre sbagliate in bagno o TV appese senza rinforzi. La differenza sta nell'orditura corretta, nella lastra giusta per ogni ambiente e nella rasatura dei giunti a regola d'arte: dettagli invisibili che decidono se il lavoro dura vent'anni o due.</p>
       <div class="info-box"><p>Scopri il nostro servizio di <a href="../servizi/cartongesso-laquila.html">opere in cartongesso a L'Aquila</a>: sopralluogo e preventivo gratuiti al 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'come-scegliere-impresa-edile-laquila',
+  title: "Come Scegliere l'Impresa Edile Giusta a L'Aquila: 8 Domande da Fare",
+  metaDesc: "Come scegliere un'impresa edile affidabile a L'Aquila: 8 domande da fare prima di firmare un contratto di ristrutturazione, dalla partita IVA alle garanzie.",
+  h1: "Come Scegliere l'Impresa Edile Giusta a L'Aquila: 8 Domande da Fare Prima di Firmare",
+  date: '2026-08-20',
+  category: 'Guide Pratiche',
+  image: 'work-ristrutturazione-completa.jpg',
+  imageAlt: "Squadra di operai al lavoro su un cantiere di ristrutturazione a L'Aquila",
+  excerpt: "Preventivi diversi, tempistiche vaghe, promesse verbali: scegliere chi ristruttura casa è una decisione che pesa per anni. Ecco le domande giuste da fare prima di firmare qualsiasi contratto.",
+  body: `
+      <p>Scegliere l'impresa che ristrutturerà casa è una delle decisioni più delicate: si tratta di affidare a terzi mesi di lavori, un investimento importante e — per settimane — la vivibilità della propria abitazione. Ecco le domande che consigliamo di fare a qualsiasi impresa prima di firmare, comprese le nostre risposte per trasparenza.</p>
+
+      <h2>1. Siete un'impresa regolare, con Partita IVA e DURC in regola?</h2>
+      <p>Sembra scontato, ma non lo è: lavorare "in nero" o con manodopera irregolare espone il committente a rischi seri, dalla responsabilità solidale sugli infortuni alla perdita delle detrazioni fiscali, che richiedono fatturazione e bonifici tracciabili. Chiedi sempre partita IVA e Documento Unico di Regolarità Contributiva (DURC).</p>
+
+      <h2>2. Il preventivo è a corpo o a misura, e quanto è dettagliato?</h2>
+      <p>Un preventivo serio elenca ogni voce — demolizioni, impianti, massetti, pavimenti, bagni, finiture — con quantità e prezzo unitario. Diffida di cifre "tutto incluso" senza dettaglio: sono la prima causa di contestazioni a fine cantiere, quando emergono lavorazioni "non previste".</p>
+
+      <h2>3. Chi segue materialmente il cantiere?</h2>
+      <p>Molte imprese subappaltano tutto e spariscono dopo la firma. Chiedi chi sarà il referente in cantiere, con che frequenza passa, e se puoi vedere lavori simili già realizzati — meglio ancora se puoi visitare un cantiere in corso.</p>
+
+      <h2>4. Che tempistiche promettete, e cosa succede se slittano?</h2>
+      <p>Un cronoprogramma realistico, condiviso prima dell'inizio lavori, è indice di serietà. Diffida di tempistiche troppo ottimistiche pensate solo per convincerti a firmare: meglio una data realistica rispettata che una promessa impossibile.</p>
+
+      <h2>5. Che garanzie offrite sui lavori eseguiti?</h2>
+      <p>Oltre alla garanzia legale prevista dal Codice Civile per le opere edili, chiedi cosa succede in caso di difetti riscontrati dopo la consegna: chi interviene, in che tempi, a quali condizioni.</p>
+
+      <h2>6. Chi gestisce le pratiche edilizie e i bonus fiscali?</h2>
+      <p>CILA, SCIA, comunicazioni ENEA, bonifico parlante: sono passaggi tecnici che, se sbagliati, fanno perdere le <a href="bonus-ristrutturazione-2026-laquila.html">detrazioni fiscali</a>. Un'impresa strutturata lavora con tecnici abilitati e sa guidarti sulla documentazione corretta.</p>
+
+      <h2>7. Materiali: quali marche, quali certificazioni?</h2>
+      <p>Un preventivo onesto specifica le marche e i sistemi proposti, non generiche "piastrelle" o "isolante". I sistemi certificati (cappotti, impianti, coperture) offrono garanzie che i materiali "equivalenti" spesso non hanno.</p>
+
+      <h2>8. Posso parlare con clienti precedenti?</h2>
+      <p>Recensioni verificabili su piattaforme terze — non solo testimonianze sul sito dell'impresa — sono il modo più affidabile per farsi un'idea reale. Guarda anche da quanti anni l'attività opera sul territorio.</p>
+
+      <h2>Il Nostro Approccio</h2>
+      <p>NVN Impresa Edile lavora a L'Aquila e provincia con preventivi voce per voce, un referente unico per ogni cantiere e un cronoprogramma condiviso prima dell'inizio lavori. Puoi verificare le nostre <a href="../testimonianze.html">recensioni</a> e chiederci referenze di cantieri già conclusi in zona.</p>
+      <div class="info-box"><p>Hai un progetto di ristrutturazione? <a href="../contatti.html">Contattaci</a> per un sopralluogo gratuito e un preventivo scritto, voce per voce: 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'fasi-cantiere-ristrutturazione',
+  title: 'Le Fasi di un Cantiere di Ristrutturazione: Cosa Aspettarsi',
+  metaDesc: "Come si svolge un cantiere di ristrutturazione dall'inizio alla consegna: fasi, tempistiche indicative e cosa aspettarsi settimana per settimana.",
+  h1: 'Le Fasi di un Cantiere di Ristrutturazione: Cosa Aspettarsi',
+  date: '2026-08-20',
+  category: 'Guide Tecniche',
+  image: 'attrezzatura-laser.jpg',
+  imageAlt: "Strumentazione di precisione per rilievi in cantiere, NVN Impresa Edile",
+  excerpt: "Demolizioni, impianti, massetti, finiture: ogni ristrutturazione segue una sequenza precisa. Ecco come si svolge un cantiere dall'inizio alla consegna, fase per fase.",
+  body: `
+      <p>Chi ristruttura casa per la prima volta spesso non sa cosa aspettarsi: quanto dura la fase "rumorosa", quando arrivano gli idraulici, quando si vede finalmente qualcosa di finito. Ecco la sequenza tipica di un cantiere di ristrutturazione completa, con le tempistiche indicative che seguiamo nei nostri progetti a L'Aquila.</p>
+
+      <h2>Fase 1 — Sopralluogo e Progettazione (prima dell'inizio lavori)</h2>
+      <p>Rilievo degli ambienti, verifica dello stato di impianti e strutture, definizione del layout se previste modifiche. È il momento in cui si decidono le pratiche edilizie necessarie (CILA, SCIA) e si redige il preventivo dettagliato voce per voce.</p>
+
+      <h2>Fase 2 — Demolizioni (giorni 1-3 circa)</h2>
+      <p>Rimozione di pavimenti, rivestimenti, tramezzi da abbattere, sanitari e impianti esistenti. È la fase più rumorosa e polverosa: si allestisce il cantiere con protezioni e si predispone lo smaltimento delle macerie.</p>
+
+      <h2>Fase 3 — Impianti (settimana 1-2)</h2>
+      <p>Tracce a muro per il nuovo impianto elettrico e idraulico, posa di tubazioni e canaline, predisposizione per riscaldamento e climatizzazione. È il momento per pensare bene a prese, punti luce e domotica: modificarli dopo costa molto di più.</p>
+
+      <h2>Fase 4 — Chiusure Murarie e Massetti (settimana 2-3)</h2>
+      <p>Si richiudono le tracce, si tirano su eventuali tramezzi nuovi, si getta il massetto per i nuovi pavimenti. Serve tempo di asciugatura prima di posare le finiture: affrettare questa fase è uno degli errori più comuni nei cantieri "fai in fretta".</p>
+
+      <h2>Fase 5 — Pavimenti e Rivestimenti (settimana 3-5)</h2>
+      <p>Posa di piastrelle, gres o parquet, rivestimenti bagno e cucina. In questa fase il cantiere inizia finalmente a "prendere forma" e si vede il risultato finale.</p>
+
+      <h2>Fase 6 — Impianti: Finiture (settimana 4-5)</h2>
+      <p>Montaggio di sanitari, rubinetteria, quadro elettrico, placche e punti luce definitivi. Gli impiantisti tornano per completare quanto predisposto in fase 3.</p>
+
+      <h2>Fase 7 — Tinteggiatura e Finiture (settimana 5-6)</h2>
+      <p>Stuccatura, rasatura e <a href="../servizi/imbiancatura-tinteggiatura-laquila.html">imbiancatura</a>, posa di porte e infissi interni, battiscopa, ultimi dettagli. È la fase che restituisce alla casa il suo aspetto definitivo.</p>
+
+      <h2>Fase 8 — Pulizia e Consegna</h2>
+      <p>Pulizia di cantiere a fondo, verifica finale di impianti e finiture insieme al cliente, consegna delle chiavi e della documentazione (schemi impianti, certificazioni, garanzie).</p>
+
+      <h2>Quanto Dura in Totale</h2>
+      <p>Per un appartamento medio (70-90 mq) con ristrutturazione completa, il cantiere dura indicativamente <strong>6-9 settimane</strong>. Un solo bagno richiede 10-15 giorni lavorativi. Le tempistiche si allungano per interventi su facciate, tetti o strutture, e vanno sempre concordate in un cronoprogramma scritto prima dell'inizio lavori.</p>
+      <div class="info-box"><p>NVN Impresa Edile condivide un cronoprogramma dettagliato prima di ogni cantiere. <a href="../contatti.html">Contattaci</a> per un sopralluogo gratuito: 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'impianto-elettrico-a-norma-quando-rifarlo',
+  title: 'Impianto Elettrico a Norma: Quando Rifarlo e Quanto Costa',
+  metaDesc: "Impianto elettrico a norma: i segnali che indicano di rifarlo, la normativa CEI 64-8, i costi indicativi a L'Aquila e cosa prevede un impianto moderno.",
+  h1: 'Impianto Elettrico a Norma: Quando Rifarlo e Quanto Costa',
+  date: '2026-08-20',
+  category: 'Guide Tecniche',
+  image: 'feat-progettazione.jpg',
+  imageAlt: "Progettazione e verifica di un impianto elettrico in un cantiere NVN Impresa Edile",
+  excerpt: "Salvavita che scatta spesso, prese insufficienti, impianto senza messa a terra: sono i segnali di un impianto elettrico da rifare. Normativa, costi e cosa prevede un impianto a norma.",
+  body: `
+      <p>Molte case del territorio aquilano — soprattutto quelle costruite prima degli anni '90 — hanno impianti elettrici mai adeguati alle norme attuali. Capire quando conviene rifarlo, e cosa comporta, evita rischi reali e spese impreviste in futuro.</p>
+
+      <h2>I Segnali che l'Impianto va Rifatto</h2>
+      <ul>
+        <li><strong>Il salvavita scatta spesso</strong>, soprattutto con più elettrodomestici accesi insieme</li>
+        <li><strong>Poche prese</strong>, spesso concentrate a filo battiscopa, con prolunghe e ciabatte a vista</li>
+        <li><strong>Assenza di messa a terra</strong> o impianto non conforme alla norma CEI 64-8</li>
+        <li><strong>Fili e guaine visibili</strong>, deteriorati o con isolamento datato</li>
+        <li><strong>Quadro elettrico datato</strong>, senza interruttori differenziali per ogni linea</li>
+        <li><strong>Nessuna predisposizione</strong> per domotica, climatizzazione o ricarica veicoli elettrici</li>
+      </ul>
+
+      <h2>Cosa Prevede un Impianto a Norma Oggi</h2>
+      <p>La norma <strong>CEI 64-8</strong> stabilisce i requisiti degli impianti elettrici negli edifici residenziali, con livelli di dotazione minima, standard e superiore in base al numero di prese, punti luce e circuiti dedicati per ogni ambiente. Un impianto moderno prevede tipicamente: linee dedicate per cucina e bagno, differenziali selettivi per ogni circuito, predisposizione per allarme e videocitofono, cablaggio per rete dati, e — sempre più spesso — predisposizione domotica per luci e tapparelle.</p>
+
+      <h2>Rifare l'Impianto: Come si Fa Senza Demolire Tutto</h2>
+      <p>Nella maggior parte dei casi rifare l'impianto elettrico richiede di tracciare le pareti per posare le nuove tubazioni: per questo è la lavorazione che conviene sempre programmare insieme a una <a href="../servizi/ristrutturazioni-laquila.html">ristrutturazione più ampia</a>, quando pareti e pavimenti sono comunque da rifare. È possibile intervenire anche senza demolizioni importanti, con canaline a vista o sottotraccia minima, ma i costi e i tempi cambiano.</p>
+
+      <h2>Quanto Costa</h2>
+      <ul>
+        <li>Rifacimento impianto elettrico completo, appartamento 70-90 mq: <strong>4.500 – 8.000 €</strong></li>
+        <li>Con predisposizione domotica base: <strong>+1.500 – 3.000 €</strong></li>
+        <li>Solo adeguamento quadro e messa a terra, senza rifacimento linee: <strong>800 – 1.800 €</strong></li>
+      </ul>
+      <p>I costi variano in base alla metratura, al numero di ambienti e al livello di dotazione scelto. Il rifacimento dell'impianto elettrico rientra tra gli interventi agevolabili con le <a href="bonus-ristrutturazione-2026-laquila.html">detrazioni fiscali vigenti</a> se inserito in un intervento di manutenzione straordinaria o ristrutturazione.</p>
+
+      <h2>Perché non Conviene Rimandare</h2>
+      <p>Un impianto non a norma non è solo un fastidio: è un rischio concreto di corto circuito e incendio, e in caso di compravendita un impianto datato riduce il valore dell'immobile e può bloccare la vendita se l'acquirente richiede la dichiarazione di conformità.</p>
+      <div class="info-box"><p>NVN Impresa Edile rifà impianti elettrici a norma a L'Aquila e provincia, con dichiarazione di conformità. Sopralluogo e preventivo gratuiti: <a href="../contatti.html">contattaci</a> al 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturazione-bagno-tempi-costi',
+  title: 'Ristrutturazione Bagno a L\'Aquila: Tempi, Fasi e Costi',
+  metaDesc: "Ristrutturare il bagno a L'Aquila: quanto dura il cantiere, le fasi di lavoro, i costi indicativi per bagno economico, standard e di pregio.",
+  h1: "Ristrutturazione Bagno a L'Aquila: Tempi, Fasi e Costi",
+  date: '2026-08-20',
+  category: 'Costi e Preventivi',
+  image: 'work-bagno.jpg',
+  imageAlt: "Bagno ristrutturato con doccia filo pavimento, cantiere NVN Impresa Edile a L'Aquila",
+  excerpt: "Il bagno è l'ambiente più tecnico della casa: impianti, impermeabilizzazione, piastrelle. Tempi realistici, fasi di lavoro e costi indicativi per rifarlo a L'Aquila.",
+  body: `
+      <p>Il bagno è, insieme alla cucina, l'ambiente che più incide sulla vivibilità quotidiana della casa — ed è anche il più delicato tecnicamente, per la concentrazione di impianti idraulici, elettrici e impermeabilizzazione in pochi metri quadri. Ecco cosa aspettarsi in termini di tempi e costi.</p>
+
+      <h2>Quanto Dura il Cantiere</h2>
+      <p>Per un bagno completo, dalla demolizione alla consegna, il tempo tecnico è di <strong>10-15 giorni lavorativi</strong>: 2-3 giorni di demolizione, 3-4 giorni per impianti e impermeabilizzazione, 4-6 giorni per posa piastrelle e massetto (con i necessari tempi di asciugatura), 2-3 giorni per sanitari, rubinetteria e finiture. Chi promette "il bagno in una settimana" spesso salta i tempi di asciugatura di massetti e collanti — un errore che si paga con crepe e distacchi nel tempo.</p>
+
+      <h2>Le Fasi di Lavoro</h2>
+      <ol>
+        <li><strong>Demolizione</strong> di sanitari, piastrelle e, se previsto, dei tramezzi da spostare</li>
+        <li><strong>Impianti</strong> — nuove tubazioni idrauliche ed elettriche, spesso con spostamento degli scarichi per un nuovo layout</li>
+        <li><strong>Impermeabilizzazione</strong> di pavimento e pareti doccia con guaina specifica: il passaggio più importante per evitare infiltrazioni verso il vicino di sotto</li>
+        <li><strong>Massetto e posa piastrelle</strong> a pavimento e a parete</li>
+        <li><strong>Sanitari e rubinetteria</strong>, box doccia o vasca, specchi e accessori</li>
+        <li><strong>Pulizia e collaudo</strong> degli impianti prima della consegna</li>
+      </ol>
+
+      <h2>Quanto Costa</h2>
+      <ul>
+        <li><strong>Bagno economico</strong> (piastrelle standard, sanitari base, senza modifiche di layout): 4.500 – 7.000 €</li>
+        <li><strong>Bagno standard</strong> (piastrelle di gamma media, doccia filo pavimento, sanitari sospesi): 7.000 – 11.000 €</li>
+        <li><strong>Bagno di pregio</strong> (grandi lastre, rubinetteria di design, illuminazione dedicata, riscaldamento a pavimento): 11.000 – 18.000+ €</li>
+      </ul>
+      <p>Il layout incide molto: spostare gli scarichi o unire due bagni piccoli in uno più funzionale costa di più delle semplici finiture, ma spesso trasforma davvero l'ambiente. Ne parliamo nel dettaglio nella nostra pagina dedicata alla <a href="../servizi/ristrutturazione-bagno-laquila.html">ristrutturazione bagno a L'Aquila</a>.</p>
+
+      <h2>Un Dettaglio che Conta: la Doccia Filo Pavimento</h2>
+      <p>Oggi la richiesta più frequente è la doccia a filo pavimento, senza piatto rialzato: richiede un piccolo abbassamento del massetto o un piatto ad incasso specifico, e va progettata correttamente per la pendenza di scarico. Va valutata caso per caso, soprattutto negli appartamenti dove lo spessore disponibile sotto al pavimento è limitato.</p>
+
+      <h2>Il Bonus Fiscale</h2>
+      <p>La ristrutturazione del bagno, inserita in un intervento di manutenzione straordinaria (impianti + piastrelle, non le sole piastrelle), rientra tra le opere agevolabili con la <a href="bonus-ristrutturazione-2026-laquila.html">detrazione fiscale del 50%</a> sull'abitazione principale.</p>
+      <div class="info-box"><p>NVN Impresa Edile ristruttura bagni completi a L'Aquila in 10-15 giorni lavorativi. Sopralluogo e preventivo gratuiti: <a href="../contatti.html">contattaci</a> al 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'rifacimento-facciate-quando-farlo-bonus',
+  title: 'Rifacimento Facciate: Quando Farlo e Quali Bonus Spettano',
+  metaDesc: "Rifacimento facciate a L'Aquila: segnali di degrado da non ignorare, normativa su ponteggi e permessi, costi al mq e bonus fiscali disponibili nel 2026.",
+  h1: 'Rifacimento Facciate: Quando Farlo e Quali Bonus Spettano',
+  date: '2026-08-27',
+  category: 'Guide Tecniche',
+  image: 'work-facciata.jpg',
+  imageAlt: "Facciata di un edificio in fase di rifacimento con ponteggio, cantiere NVN Impresa Edile",
+  excerpt: "Intonaco che si sgretola, macchie di umidità, calcinacci che cadono: sono i segnali che la facciata va rifatta. Normativa, costi e bonus fiscali per intervenire in sicurezza.",
+  body: `
+      <p>La facciata è il primo elemento esposto a pioggia, gelo e sbalzi termici — ed è anche quello che, quando si degrada, mette a rischio la sicurezza di chi passa sotto casa. Ecco quando intervenire e cosa aspettarsi tra normativa, costi e agevolazioni.</p>
+
+      <h2>I Segnali da Non Ignorare</h2>
+      <ul>
+        <li><strong>Intonaco che si sgretola o rigonfia</strong> — segno di infiltrazione o distacco dal supporto</li>
+        <li><strong>Macchie di umidità ed efflorescenze</strong> saline sulla superficie</li>
+        <li><strong>Calcinacci o frammenti che cadono</strong> — un rischio concreto per la sicurezza pubblica, non solo un problema estetico</li>
+        <li><strong>Fessurazioni diffuse</strong>, soprattutto in corrispondenza di giunti strutturali o cornicioni</li>
+        <li><strong>Coloriture sbiadite o disomogenee</strong> dopo molti anni dall'ultima tinteggiatura</li>
+      </ul>
+      <p>In un condominio, i cornicioni e i balconi ammalorati sono spesso il campanello d'allarme più urgente: la caduta di calcinacci comporta responsabilità dirette dell'amministratore e dei proprietari.</p>
+
+      <h2>Permessi e Ponteggio: Cosa Serve</h2>
+      <p>Il rifacimento della facciata richiede generalmente una <strong>comunicazione al Comune</strong> (CILA o SCIA a seconda dell'intervento) e, se si occupa suolo pubblico con il ponteggio, l'<strong>autorizzazione all'occupazione</strong> e le segnalazioni di sicurezza previste dal codice della strada. Nei centri storici e nelle zone soggette a vincolo, può essere necessario anche il parere della Soprintendenza sui colori e sui materiali: un aspetto che a L'Aquila, con il patrimonio post-sisma, va sempre verificato prima di procedere.</p>
+
+      <h2>Le Lavorazioni Tipiche</h2>
+      <ol>
+        <li><strong>Rimozione dell'intonaco ammalorato</strong> e trattamento delle parti in ferro (staffe, ringhiere) contro la ruggine</li>
+        <li><strong>Rasatura e ripristino</strong> delle parti mancanti, con malte specifiche per l'esterno</li>
+        <li><strong>Eventuale cappotto termico</strong> se si vuole unire l'intervento estetico al risparmio energetico — occasione da valutare sempre, perché il ponteggio è già montato</li>
+        <li><strong>Tinteggiatura finale</strong> con pitture traspiranti resistenti agli agenti atmosferici</li>
+      </ol>
+
+      <h2>Quanto Costa</h2>
+      <ul>
+        <li>Rasatura e tinteggiatura senza cappotto: <strong>35 – 55 €/mq</strong></li>
+        <li>Rifacimento completo con cappotto termico: <strong>110 – 170 €/mq</strong> (ponteggio incluso)</li>
+        <li>Ponteggio, se fatturato separatamente: indicativamente 15 – 25 €/mq di facciata, per l'intera durata del cantiere</li>
+      </ul>
+
+      <h2>I Bonus Fiscali</h2>
+      <p>Il rifacimento della facciata rientra tra gli interventi agevolabili con la <a href="bonus-ristrutturazione-2026-laquila.html">detrazione fiscale ordinaria del 50%</a> quando riguarda l'abitazione principale, con aliquote maggiorate previste in alcuni casi per gli interventi di efficientamento energetico se abbinati a cappotto termico. Per i condomini, l'intervento su parti comuni consente spesso di ripartire la spesa e la detrazione tra tutti i proprietari.</p>
+
+      <h2>Il Momento Giusto per Intervenire</h2>
+      <p>Meglio programmare il rifacimento in primavera o inizio estate, quando le temperature permettono la corretta maturazione di intonaci e pitture. Rimandare un degrado già visibile, però, comporta rischi crescenti e costi di riparazione più alti col passare del tempo.</p>
+      <div class="info-box"><p>NVN Impresa Edile esegue <a href="../servizi/rifacimento-facciate-laquila.html">rifacimento facciate a L'Aquila</a> e provincia, anche in abbinamento al cappotto termico. Sopralluogo e preventivo gratuiti: 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'quando-serve-progettista-ristrutturazione',
+  title: 'Ristrutturare Casa: Quando Serve un Progettista e Quando No',
+  metaDesc: "Quando serve un progettista per ristrutturare casa a L'Aquila: CILA, SCIA, permesso di costruire, interventi strutturali e come funziona la progettazione.",
+  h1: 'Ristrutturare Casa: Quando Serve un Progettista e Quando No',
+  date: '2026-08-27',
+  category: 'Guide Pratiche',
+  image: 'feat-progettazione.jpg',
+  imageAlt: "Disegni tecnici e planimetrie per un progetto di ristrutturazione, NVN Impresa Edile",
+  excerpt: "Spostare un tramezzo, abbattere un muro portante, ampliare casa: non tutti gli interventi richiedono un progettista, ma sbagliare la pratica giusta costa caro. Ecco come orientarsi.",
+  body: `
+      <p>Una delle domande più frequenti di chi progetta una ristrutturazione è: "mi serve un tecnico, o posso partire direttamente con l'impresa?". La risposta dipende dal tipo di intervento, e sbagliarla può voler dire perdere le detrazioni fiscali o, nei casi peggiori, dover rimettere tutto com'era.</p>
+
+      <h2>Interventi Senza Titolo Abilitativo (o con CILA)</h2>
+      <p>Manutenzione ordinaria (tinteggiature, sostituzione pavimenti senza modifiche), sostituzione di sanitari e impianti a parità di ubicazione, in genere non richiedono pratiche edilizie. Interventi di manutenzione straordinaria che non toccano parti strutturali — rifacimento impianti, spostamento di un tramezzo non portante, rifacimento bagno con nuovo layout — rientrano solitamente nella <strong>CILA</strong> (Comunicazione Inizio Lavori Asseverata), che un tecnico abilitato presenta prima dell'inizio lavori.</p>
+
+      <h2>Quando Serve Davvero un Progettista</h2>
+      <ul>
+        <li><strong>Muri portanti</strong> — qualsiasi intervento che tocchi una struttura portante richiede calcoli e, spesso, autorizzazione sismica: nella zona aquilana, ad alta sismicità, questo passaggio non è negoziabile</li>
+        <li><strong>Cambio di destinazione d'uso</strong> — trasformare un locale in abitazione, o viceversa</li>
+        <li><strong>Ampliamenti o modifiche di sagoma</strong> dell'edificio</li>
+        <li><strong>Interventi su edifici vincolati</strong> o nei centri storici, dove serve anche il parere paesaggistico</li>
+        <li><strong>Ristrutturazioni che modificano i prospetti</strong> — nuove aperture, balconi, portefinestre</li>
+      </ul>
+      <p>In questi casi la pratica corretta è la <strong>SCIA</strong> (Segnalazione Certificata di Inizio Attività) o, per gli interventi più rilevanti, il <strong>permesso di costruire</strong>, con progetto firmato da un tecnico abilitato e — dove previsto — autorizzazione sismica del Genio Civile.</p>
+
+      <h2>Cosa Succede se si Salta questo Passaggio</h2>
+      <p>Lavori eseguiti senza il titolo corretto sono <strong>abusi edilizi</strong>: comportano sanzioni, possibile obbligo di ripristino dello stato originario, e bloccano future compravendite dell'immobile. Anche quando non emergono subito, il problema riaffiora puntualmente al momento della vendita, quando il notaio verifica la conformità edilizia e catastale.</p>
+
+      <h2>Come Lavoriamo Noi</h2>
+      <p>NVN Impresa Edile valuta in sopralluogo se l'intervento richiede un progettista e, in caso affermativo, coordina con tecnici abilitati partner per pratica edilizia, eventuale autorizzazione sismica e, a fine lavori, l'aggiornamento catastale se necessario. Un unico referente segue sia la parte tecnica che quella esecutiva, evitando rimpalli tra progettista e impresa.</p>
+
+      <h2>Un Consiglio Pratico</h2>
+      <p>Anche quando la legge non lo richiede, un disegno chiaro del layout finale — prima di iniziare — evita ripensamenti in corso d'opera, che sono la causa più comune di ritardi e costi extra. Vale sempre la pena investire qualche ora di progettazione prima del cantiere.</p>
+      <div class="info-box"><p>Hai dubbi su quale pratica serve per il tuo progetto? <a href="../servizi/progettazione-edile-laquila.html">Scopri il nostro servizio di progettazione</a> o <a href="../contatti.html">contattaci</a> per un sopralluogo gratuito: 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'pavimenti-guida-gres-parquet-resina',
+  title: 'Pavimenti per Casa: Gres, Parquet o Resina? Guida alla Scelta',
+  metaDesc: "Come scegliere il pavimento per casa: differenze tra gres porcellanato, parquet e resina, costi al mq e consigli per ogni ambiente. Guida NVN Impresa Edile.",
+  h1: 'Pavimenti per Casa: Gres, Parquet o Resina? Guida alla Scelta',
+  date: '2026-08-27',
+  category: 'Idee e Ispirazioni',
+  image: 'work-pavimenti.jpg',
+  imageAlt: "Posa di pavimento in gres porcellanato effetto legno, cantiere NVN Impresa Edile",
+  excerpt: "Gres effetto legno, parquet vero, resina continua: tre strade diverse per lo stesso obiettivo. Vantaggi, costi al metro quadro e quale scegliere ambiente per ambiente.",
+  body: `
+      <p>Il pavimento è la superficie più grande della casa e quella che più incide sulla percezione degli spazi. Scegliere tra gres, parquet e resina non è solo una questione di gusto: ogni materiale ha comportamenti diversi rispetto a umidità, usura e manutenzione.</p>
+
+      <h2>Gres Porcellanato: la Scelta più Versatile</h2>
+      <p>Resistente all'acqua, ai graffi e al gelo, il gres porcellanato si posa ovunque: bagni, cucine, zone giorno, anche esterni con le versioni antigelive. Le collezioni <strong>effetto legno</strong> hanno raggiunto un realismo altissimo, offrendo l'estetica del parquet senza i limiti di umidità e usura del legno vero. È la scelta più pratica per famiglie con bambini o animali, e l'unica adatta a bagni e docce.</p>
+      <p><em>Costo indicativo posa inclusa: 40 – 90 €/mq, secondo la gamma.</em></p>
+
+      <h2>Parquet: Calore Autentico, più Attenzioni</h2>
+      <p>Nessun materiale scalda un ambiente come il legno vero. Il parquet prefinito si posa rapidamente e con meno polvere del tradizionale "a listoni grezzi da levigare", ma resta un materiale vivo: teme l'acqua stagnante, richiede oli o vernici protettive periodiche e si comporta diversamente da ambiente ad ambiente per via dell'umidità. È perfetto per zona giorno e camere, sconsigliato per bagni e sconsigliabile per cucine a contatto diretto con l'acqua.</p>
+      <p><em>Costo indicativo posa inclusa: 55 – 130 €/mq, secondo l'essenza e la lavorazione.</em></p>
+
+      <h2>Resina: la Superficie Continua</h2>
+      <p>La resina si applica direttamente sul massetto esistente (o su un vecchio pavimento, spesso senza demolizioni), creando una superficie continua senza fughe. È la soluzione più scelta per look moderni ed essenziali, per unire visivamente ambienti diversi, o per rinnovare un pavimento datato senza cantiere pesante. Richiede però un supporto stabile e una posa eseguita da mani esperte: le sbavature in questo materiale si vedono.</p>
+      <p><em>Costo indicativo: 60 – 110 €/mq, secondo lo spessore e la finitura.</em></p>
+
+      <h2>Quale Scegliere, Ambiente per Ambiente</h2>
+      <ul>
+        <li><strong>Bagno</strong> — gres, sempre. È l'unico materiale davvero adatto all'acqua costante</li>
+        <li><strong>Cucina</strong> — gres per praticità e resistenza a macchie e calore; parquet trattato solo se lontano dal lavello</li>
+        <li><strong>Soggiorno e camere</strong> — parquet per il comfort al tatto, gres effetto legno se si preferisce zero manutenzione</li>
+        <li><strong>Rinnovare senza demolire</strong> — resina, se il massetto esistente è in buone condizioni</li>
+      </ul>
+
+      <h2>Un Dettaglio Spesso Sottovalutato: il Riscaldamento a Pavimento</h2>
+      <p>Con il riscaldamento radiante, il gres è il materiale più performante per la trasmissione del calore; il parquet richiede essenze e spessori specifici per il radiante, da concordare sempre con il posatore per evitare problemi di dilatazione.</p>
+
+      <h2>Il Consiglio</h2>
+      <p>Non serve scegliere un solo materiale per tutta la casa: molte delle ristrutturazioni più riuscite combinano gres nelle zone umide e di passaggio con parquet nelle camere, con una soglia di passaggio ben progettata a fare da raccordo.</p>
+      <div class="info-box"><p>NVN Impresa Edile posa <a href="../servizi/pavimenti-rivestimenti-laquila.html">pavimenti e rivestimenti a L'Aquila</a>: consulenza sui materiali, sopralluogo e preventivo gratuiti al 339 713 9941.</p></div>`,
 },
 ];

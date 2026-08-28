@@ -133,7 +133,7 @@ function buildServizio(s) {
     <p class="cost-note">${s.costTable.note}</p>
   </div>`;
 
-  const html = `${L.head({ rel, title: s.title, desc: s.metaDesc, canonical, schemas, extraCss: SERVIZIO_CSS })}
+  const html = `${L.head({ rel, title: s.title, desc: s.metaDesc, canonical, schemas, ogImage: s.image, extraCss: SERVIZIO_CSS })}
 ${L.header(rel, 'servizi')}
 ${L.pageBanner({ h1: s.h1, sub: s.bannerSub, crumbs })}
 
@@ -199,7 +199,7 @@ function buildZona(z) {
   ].map((c, i) => `
       <div class="servizio-card-z reveal"${i ? ` style="transition-delay:.${(i * 5).toString().padStart(2, '0')}s"`.replace('.05s', '.05s') : ''}><i class="${c.icon}"></i><h3>${c.h}</h3><p>${c.p}</p><a href="${rel}servizi/${c.slug}.html">Scopri il servizio →</a></div>`).join('');
 
-  const html = `${L.head({ rel, title: z.title, desc: z.metaDesc, canonical, schemas, extraCss: ZONA_CSS })}
+  const html = `${L.head({ rel, title: z.title, desc: z.metaDesc, canonical, schemas, ogImage: 'work-ristrutturazione-completa.jpg', extraCss: ZONA_CSS })}
 ${L.header(rel, 'zone')}
 ${L.pageBanner({ h1: z.h1, sub: z.bannerSub, crumbs })}
 
@@ -253,13 +253,13 @@ function buildArticolo(a) {
   ];
 
   const schemas = [
-    L.schemaArticle({ headline: a.h1, description: a.metaDesc, date: a.date, path: canonical }),
+    L.schemaArticle({ headline: a.h1, description: a.metaDesc, image: a.image, date: a.date, path: canonical }),
     L.schemaBreadcrumb(crumbs),
   ];
 
   const dateIt = new Date(a.date + 'T12:00:00').toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' });
 
-  const html = `${L.head({ rel, title: a.title, desc: a.metaDesc, canonical, schemas, ogType: 'article', extraCss: NEWS_CSS })}
+  const html = `${L.head({ rel, title: a.title, desc: a.metaDesc, canonical, schemas, ogType: 'article', ogImage: a.image, extraCss: NEWS_CSS })}
 ${L.header(rel, 'news')}
 ${L.pageBanner({ h1: a.h1, sub: `${dateIt} · ${a.category}`, crumbs })}
 ${a.image ? `

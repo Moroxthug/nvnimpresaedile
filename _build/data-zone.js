@@ -25,7 +25,7 @@ module.exports = [
   slug: 'ristrutturazioni-assergi',
   label: 'Assergi',
   title: "Ristrutturazioni Assergi | Impresa Edile del Posto – NVN",
-  metaDesc: "Impresa edile ad Assergi (L'Aquila): ristrutturazioni case in pietra, tetti in legno, bagni e cappotto termico. Siamo di Assergi: sopralluogo immediato e gratuito.",
+  metaDesc: "Impresa edile ad Assergi (L'Aquila): ristrutturazioni case in pietra, tetti in legno, bagni e cappotto termico. Sopralluogo immediato e gratuito.",
   h1: "Ristrutturazioni ad Assergi",
   bannerSub: "La nostra casa: NVN Impresa Edile ha sede proprio qui, ai piedi del Gran Sasso",
   intro: [
@@ -63,7 +63,7 @@ module.exports = [
   slug: 'ristrutturazioni-coppito',
   label: 'Coppito',
   title: "Ristrutturazioni Coppito | Impresa Edile – NVN L'Aquila",
-  metaDesc: "Impresa edile a Coppito (L'Aquila): ristrutturazioni appartamenti, bagni, cartongesso e imbiancature, anche per immobili affittati a studenti. Preventivo gratuito.",
+  metaDesc: "Impresa edile a Coppito (L'Aquila): ristrutturazioni appartamenti, bagni, cartongesso e imbiancature, anche per immobili affittati a studenti.",
   h1: "Ristrutturazioni a Coppito",
   bannerSub: "Ristrutturazioni per la zona universitaria e ospedaliera dell'Aquila",
   intro: [

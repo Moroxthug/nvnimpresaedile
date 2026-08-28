@@ -525,7 +525,7 @@ module.exports = [
 {
   slug: 'progettazione-edile-laquila',
   label: 'Progettazione',
-  title: "Progettazione Edile L'Aquila | Ristrutturazioni e Nuove Costruzioni – NVN",
+  title: "Progettazione Edile L'Aquila | Rilievi e Pratiche – NVN",
   metaDesc: "Progettazione di ristrutturazioni e nuove costruzioni a L'Aquila: rilievi, layout, pratiche edilizie e direzione lavori con tecnici partner. NVN Impresa Edile.",
   h1: "Progettazione Edile a L'Aquila",
   bannerSub: 'Dal rilievo al progetto, dalle pratiche al cantiere: costruiamo il percorso prima delle pareti',
