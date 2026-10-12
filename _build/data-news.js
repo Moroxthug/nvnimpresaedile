@@ -493,4 +493,288 @@ module.exports = [
       <p>Non serve scegliere un solo materiale per tutta la casa: molte delle ristrutturazioni più riuscite combinano gres nelle zone umide e di passaggio con parquet nelle camere, con una soglia di passaggio ben progettata a fare da raccordo.</p>
       <div class="info-box"><p>NVN Impresa Edile posa <a href="../servizi/pavimenti-rivestimenti-laquila.html">pavimenti e rivestimenti a L'Aquila</a>: consulenza sui materiali, sopralluogo e preventivo gratuiti al 339 713 9941.</p></div>`,
 },
+// ============================================================
+{
+  slug: 'cila-scia-permesso-di-costruire-quale-serve',
+  title: "CILA, SCIA o Permesso di Costruire: Quale Serve per Ristrutturare",
+  metaDesc: "CILA, SCIA o permesso di costruire? Guida pratica per capire quale pratica edilizia serve per ristrutturare casa a L'Aquila, chi la presenta e cosa si rischia senza.",
+  h1: "CILA, SCIA o Permesso di Costruire: Quale Pratica Serve per Ristrutturare Casa",
+  date: '2026-10-11',
+  category: 'Guide Pratiche',
+  image: 'feat-progettazione.jpg',
+  imageAlt: "Disegni tecnici e planimetrie per un progetto di ristrutturazione, NVN Impresa Edile",
+  excerpt: "Prima di toccare un muro serve la pratica giusta. Le differenze tra CILA, SCIA e permesso di costruire, spiegate con esempi concreti di lavori in casa.",
+  body: `
+      <p>Una delle domande che riceviamo più spesso al primo sopralluogo è: "Per questi lavori serve una pratica in Comune?". Nella maggior parte dei casi sì, e scegliere il titolo sbagliato può bloccare il cantiere, far perdere le detrazioni fiscali o creare problemi alla vendita dell'immobile. Ecco come orientarsi.</p>
+
+      <div class="info-box"><p>Questa guida è un orientamento generale. Il titolo edilizio corretto dipende dal progetto, dalla zona e dalla normativa regionale e comunale: va sempre confermato da un tecnico abilitato (geometra, architetto o ingegnere) dopo il sopralluogo.</p></div>
+
+      <h2>Edilizia Libera: Lavori Senza Pratica</h2>
+      <p>Alcuni interventi di manutenzione ordinaria non richiedono alcuna comunicazione: tinteggiatura, sostituzione di pavimenti e rivestimenti senza modifiche all'impianto, riparazione di intonaci. Attenzione però: se rientrano in una ristrutturazione più ampia, la pratica si valuta sull'insieme dei lavori.</p>
+
+      <h2>CILA: la Pratica per i Lavori Più Comuni</h2>
+      <p>La <strong>Comunicazione di Inizio Lavori Asseverata</strong> riguarda in genere la manutenzione straordinaria che <em>non</em> tocca le parti strutturali dell'edificio. Esempi tipici: rifare o spostare un bagno, ridistribuire tramezzi interni non portanti, rifare gli impianti, aprire o chiudere una porta in una parete non portante. Un tecnico abilitato assevera la conformità e presenta la pratica prima dell'inizio dei lavori.</p>
+
+      <h2>SCIA: Quando si Interviene su Strutture o Prospetti</h2>
+      <p>La <strong>Segnalazione Certificata di Inizio Attività</strong> entra in gioco per interventi più incisivi: modifiche alle parti strutturali, cambi di destinazione d'uso con opere, variazioni dei prospetti (finestre, balconi, facciata). In una città ad alta sismicità come L'Aquila, ogni intervento che coinvolge la struttura prevede inoltre adempimenti specifici in materia sismica: ne parliamo nella nostra guida sul <a href="ristrutturare-in-zona-sismica-laquila.html">ristrutturare in zona sismica</a>.</p>
+
+      <h2>Permesso di Costruire: gli Interventi Più Grandi</h2>
+      <p>Serve per nuove costruzioni, ampliamenti e per le ristrutturazioni più pesanti, quelle che modificano in modo sostanziale l'organismo edilizio. In alcuni casi di ristrutturazione la legge consente di scegliere la SCIA in alternativa: sarà il tecnico a indicare la strada più conveniente per il tuo progetto.</p>
+
+      <h2>Cosa si Rischia Senza la Pratica Giusta</h2>
+      <ul>
+        <li><strong>Sanzioni amministrative</strong> e obbligo di regolarizzare a posteriori</li>
+        <li><strong>Perdita delle detrazioni fiscali</strong>, che richiedono lavori correttamente titolati: leggi la <a href="bonus-ristrutturazione-2026-laquila.html">guida ai bonus casa</a></li>
+        <li><strong>Problemi in fase di compravendita o mutuo</strong>, perché lo stato di fatto deve coincidere con lo stato legittimo dell'immobile</li>
+        <li><strong>Blocco del cantiere</strong> in caso di controllo</li>
+      </ul>
+
+      <h2>Chi se ne Occupa</h2>
+      <p>La pratica la firma un professionista abilitato. Con noi non devi cercarlo da solo: tramite il nostro servizio di <a href="../servizi/progettazione-edile-laquila.html">progettazione edile</a> ci coordiniamo con i tecnici, preparando insieme documenti, computo e tempistiche, in modo che il cantiere parta in regola. Se vuoi capire come si inserisce la pratica nel percorso dei lavori, vedi anche le <a href="fasi-cantiere-ristrutturazione.html">fasi del cantiere di ristrutturazione</a>.</p>
+      <div class="info-box"><p>Non sai quale pratica serve per i tuoi lavori? Chiamaci al 339 713 9941 o <a href="../contatti.html">scrivici</a>: facciamo un sopralluogo gratuito e ti indichiamo il percorso corretto.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'da-vasca-a-doccia-costi-tempi-laquila',
+  title: "Da Vasca a Doccia: Costi, Tempi e Cosa Sapere (L'Aquila)",
+  metaDesc: "Sostituire la vasca con la doccia: costi indicativi, tempi di lavoro, piatto doccia o filo pavimento e bonus. Guida pratica per bagni a L'Aquila.",
+  h1: "Da Vasca a Doccia: Costi, Tempi e Cosa Sapere Prima di Iniziare",
+  date: '2026-10-11',
+  category: 'Costi e Preventivi',
+  image: 'work-bagno.jpg',
+  imageAlt: "Bagno ristrutturato con doccia filo pavimento, cantiere NVN Impresa Edile a L'Aquila",
+  excerpt: "Trasformare la vasca in doccia è uno dei lavori più richiesti. Quanto costa, quanto dura il cantiere, piatto o filo pavimento e come evitare gli errori più comuni.",
+  body: `
+      <p>Sostituire la vasca con una doccia è tra gli interventi più richiesti in casa: più spazio, meno manutenzione, e un bagno più sicuro e accessibile nel tempo. Vediamo cosa comporta davvero il lavoro.</p>
+
+      <h2>Quanto Costa Sostituire la Vasca con la Doccia</h2>
+      <p>Le cifre dipendono da misure, finiture e stato degli impianti. Come ordine di grandezza, per un bagno standard:</p>
+      <ul>
+        <li><strong>Sostituzione "semplice"</strong> (rimozione vasca, nuovo piatto doccia, box e rivestimento della zona doccia): indicativamente 2.500 – 4.500 euro</li>
+        <li><strong>Doccia filo pavimento</strong> (con massetto a pendenza e impermeabilizzazione): indicativamente 4.000 – 7.000 euro</li>
+        <li><strong>Rifacimento completo del bagno</strong> con sostituzione sanitari, impianti e rivestimenti: cifre più alte, descritte nella nostra guida <a href="ristrutturazione-bagno-tempi-costi.html">ristrutturazione bagno: tempi e costi</a></li>
+      </ul>
+      <p><em>Sono stime indicative: il preventivo reale nasce solo da un sopralluogo.</em></p>
+
+      <h2>Piatto Doccia o Filo Pavimento?</h2>
+      <p>Il <strong>piatto doccia</strong> (in resina, ceramica o acrilico) è la soluzione più rapida e meno invasiva, adatta quando non si vuole intervenire sul massetto. La <strong>doccia filo pavimento</strong> è più elegante e accessibile, ma richiede di lavorare sul sottofondo per creare la pendenza e di eseguire un'impermeabilizzazione a regola d'arte: è la fase dove non si può risparmiare, perché un errore qui si traduce in infiltrazioni anni dopo.</p>
+
+      <h2>Quanto Dura il Cantiere</h2>
+      <p>Per una sostituzione vasca-doccia i tempi tipici sono di <strong>circa una-due settimane</strong>, includendo demolizione, modifica degli scarichi, impermeabilizzazione, tempi di asciugatura, posa dei rivestimenti e montaggio finale. Il doccia filo pavimento può richiedere qualche giorno in più per i tempi tecnici dei materiali.</p>
+
+      <h2>Gli Errori da Evitare</h2>
+      <ul>
+        <li><strong>Impermeabilizzazione trascurata</strong>: guaina e sigillature sono ciò che protegge i vicini di casa e le pareti</li>
+        <li><strong>Pendenze sbagliate</strong>: l'acqua deve scorrere verso lo scarico, non ristagnare</li>
+        <li><strong>Scarico sottodimensionato</strong>: una doccia ampia con getto a pioggia richiede portata adeguata</li>
+        <li><strong>Rivestimenti non adatti</strong>: in doccia servono materiali antiscivolo e fughe resistenti</li>
+      </ul>
+
+      <h2>Detrazioni Fiscali</h2>
+      <p>La possibilità di detrarre dipende da come l'intervento è inquadrato: spesso è agevolabile se rientra in un intervento più ampio di manutenzione straordinaria, mentre come semplice sostituzione può non esserlo. Il tema va verificato con il commercialista prima dell'avvio; trovi un quadro generale nella <a href="bonus-ristrutturazione-2026-laquila.html">guida ai bonus casa</a>.</p>
+      <div class="info-box"><p>Realizziamo <a href="../servizi/ristrutturazione-bagno-laquila.html">ristrutturazioni di bagni a L'Aquila</a> e dintorni, con sopralluogo e preventivo gratuiti. Chiama il 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'umidita-muffa-infiltrazioni-cause-rimedi',
+  title: "Umidità e Muffa in Casa: Cause e Rimedi Davvero Efficaci",
+  metaDesc: "Umidità di risalita, condensa o infiltrazioni? Come riconoscere la causa della muffa in casa e quali interventi funzionano davvero. Guida NVN Impresa Edile.",
+  h1: "Umidità e Muffa in Casa: Come Riconoscere la Causa e Come Risolverla",
+  date: '2026-10-11',
+  category: 'Guide Tecniche',
+  image: 'work-cappotto-termico.jpg',
+  imageAlt: "Cappotto termico in posa su facciata, cantiere NVN Impresa Edile a L'Aquila",
+  excerpt: "Macchie scure, intonaco che si sfarina, odore di chiuso: l'umidità ha cause diverse e ognuna ha il suo rimedio. Come distinguerle prima di spendere soldi nella soluzione sbagliata.",
+  body: `
+      <p>Verniciare sopra la muffa è l'errore più diffuso, e di solito fa tornare il problema nel giro di pochi mesi. Prima di intervenire bisogna capire <em>da dove</em> arriva l'umidità: le cause sono diverse e richiedono soluzioni diverse.</p>
+
+      <h2>1. Condensa: la Più Frequente</h2>
+      <p>Si forma quando l'aria calda e umida della casa incontra una superficie fredda: angoli di pareti perimetrali, dietro agli armadi, sopra le finestre. Tipicamente compare d'inverno, sotto forma di puntini neri di muffa. Nasce da una combinazione di <strong>scarso isolamento</strong> (ponti termici) e <strong>ricambio d'aria insufficiente</strong>, spesso aggravata da serramenti nuovi molto ermetici in una casa non isolata.</p>
+      <p><strong>Rimedi:</strong> arieggiare con regolarità, controllare l'umidità interna, e soprattutto intervenire sull'isolamento — un <a href="cappotto-termico-conviene-laquila.html">cappotto termico</a> elimina alla radice i punti freddi sulle pareti esterne.</p>
+
+      <h2>2. Umidità di Risalita</h2>
+      <p>L'acqua del terreno risale per capillarità lungo le murature, soprattutto in edifici storici senza barriera impermeabile. I segni: macchie e salnitro nella parte bassa dei muri (fino a un metro circa), intonaco che si stacca, pittura che si sfoglia. Rimedi possibili: iniezioni di barriera chimica, intonaci deumidificanti macroporosi, drenaggi esterni. La scelta dipende dallo spessore del muro e dalle cause locali, e va decisa dopo una diagnosi.</p>
+
+      <h2>3. Infiltrazioni da Tetto, Facciata o Terrazzi</h2>
+      <p>Macchie che compaiono dopo piogge intense, soprattutto ai piani alti o sotto balconi e terrazzi, indicano una infiltrazione: coperture danneggiate, grondaie ostruite, giunzioni e impermeabilizzazioni deteriorate. In questo caso l'intervento è sulla fonte (tetto, <a href="rifacimento-facciate-quando-farlo-bonus.html">facciata</a>, guaina), non sulla parete interna.</p>
+
+      <h2>4. Perdite da Impianti</h2>
+      <p>Una macchia che si allarga senza che piova può derivare da una perdita idraulica nascosta. Se sospetti una perdita, serve una ricerca con strumentazione prima di aprire i muri.</p>
+
+      <h2>Come si Fa una Diagnosi Seria</h2>
+      <ul>
+        <li>Osservare <strong>dove e quando</strong> compare l'umidità (stagione, piano, esposizione)</li>
+        <li>Verificare lo stato di tetto, grondaie, facciate e scarichi</li>
+        <li>Valutare il livello di isolamento e di ventilazione degli ambienti</li>
+        <li>Solo dopo, scegliere l'intervento — e mai l'inverso</li>
+      </ul>
+
+      <h2>Perché a L'Aquila è un Tema Così Sentito</h2>
+      <p>Il nostro clima prevede inverni lunghi e freddi, con forti escursioni termiche tra giorno e notte: condizioni ideali per la condensa negli edifici poco isolati. Molte case della zona — centro, frazioni e borghi della provincia — hanno murature spesse e antiche, che funzionano bene se aiutate con isolamento e ventilazione corretti.</p>
+      <div class="info-box"><p>Se hai muffa o macchie ricorrenti, chiamaci al 339 713 9941 per un sopralluogo: individuiamo la causa e ti diciamo quale intervento serve, tra <a href="../servizi/cappotto-termico-laquila.html">cappotto termico</a>, ripristino di facciate o coperture. Scopri anche i <a href="../servizi/ristrutturazioni-laquila.html">lavori di ristrutturazione</a> che realizziamo.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturare-casa-montagna-gran-sasso',
+  title: "Ristrutturare Casa in Montagna: Cosa Sapere (Gran Sasso e L'Aquila)",
+  metaDesc: "Ristrutturare una casa di montagna vicino al Gran Sasso: isolamento, tetto in legno, neve, ventilazione e materiali adatti al freddo. Consigli da un'impresa edile locale.",
+  h1: "Ristrutturare una Casa di Montagna: Isolamento, Tetto e Materiali per il Gran Sasso",
+  date: '2026-10-11',
+  category: 'Guide Tecniche',
+  image: 'work-tetto-legno.jpg',
+  imageAlt: "Struttura di copertura in legno con travi a vista, cantiere NVN Impresa Edile",
+  excerpt: "Neve, gelo e forti escursioni termiche: una casa ad Assergi o in un borgo ai piedi del Gran Sasso ha esigenze diverse da una casa di città. Dove investire per prime.",
+  body: `
+      <p>Chi ha una casa ad Assergi, nei borghi del Gran Sasso o nelle frazioni più alte del territorio sa bene che l'inverno qui è una cosa seria. Ristrutturare in montagna non è come farlo in pianura: cambiano le priorità, i materiali e il modo di lavorare.</p>
+
+      <h2>1. Il Tetto: la Priorità Numero Uno</h2>
+      <p>Il tetto è l'elemento più sollecitato: neve, gelo e disgelo mettono alla prova coperture e impermeabilizzazioni. Un buon intervento prevede una <strong>struttura adeguata ai carichi</strong> previsti dalla normativa per la zona, un <strong>pacchetto di copertura isolato e ventilato</strong> e una corretta gestione di grondaie e pluviali. Il <a href="tetti-in-legno-vantaggi-costi.html">tetto in legno</a> si presta molto bene a questi contesti, per leggerezza, comportamento termico e resa estetica, ma va sempre dimensionato da un tecnico.</p>
+
+      <h2>2. Isolamento: Meno Dispersioni, Meno Condensa</h2>
+      <p>Una casa di montagna disperde calore soprattutto da pareti esterne, tetto e serramenti. Un isolamento ben progettato (come un <a href="cappotto-termico-conviene-laquila.html">cappotto termico</a> o l'isolamento della copertura) taglia i consumi e riduce la condensa. Se hai problemi di muffa ricorrenti, leggi anche la guida su <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">umidità e muffa in casa</a>.</p>
+
+      <h2>3. Serramenti e Ventilazione</h2>
+      <p>Serramenti ad alte prestazioni aiutano molto, ma in una casa molto isolata servono anche <strong>aperture e ricambio d'aria controllati</strong>: senza, l'umidità resta intrappolata e la muffa è dietro l'angolo. Qui conta il progetto d'insieme, non il singolo componente.</p>
+
+      <h2>4. Materiali Adatti al Gelo</h2>
+      <p>Per esterni, scale e pavimentazioni scegli materiali <strong>antigelivi e antiscivolo</strong>: un gres non gelivo evita sfaldamenti dopo i primi inverni. Per le parti in legno, la protezione e la manutenzione periodica sono decisive.</p>
+
+      <h2>5. Logistica e Stagionalità</h2>
+      <p>Strade strette, accessi con neve e finestre meteo ridotte influenzano la pianificazione. Il periodo migliore per i lavori esterni è la bella stagione: pianificare con anticipo evita di dover fermare il cantiere per maltempo. Lavoriamo regolarmente ad <a href="../zone/ristrutturazioni-assergi.html">Assergi</a> e nelle zone limitrofe, e conosciamo bene queste condizioni.</p>
+
+      <h2>6. Normative e Vincoli</h2>
+      <p>In zone di pregio paesaggistico o nei centri storici possono valere vincoli specifici, oltre alle regole per la zona sismica: un tecnico verifica in fase di progetto cosa si può fare. Per capire la pratica giusta leggi anche <a href="cila-scia-permesso-di-costruire-quale-serve.html">CILA, SCIA o permesso di costruire</a>.</p>
+      <div class="info-box"><p>Hai una casa ad Assergi o nei borghi del Gran Sasso? Chiamaci al 339 713 9941 per un sopralluogo gratuito: scopri i nostri lavori su <a href="../zone/ristrutturazioni-assergi.html">ristrutturazioni ad Assergi</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturare-in-zona-sismica-laquila',
+  title: "Ristrutturare in Zona Sismica a L'Aquila: Cosa Cambia",
+  metaDesc: "Ristrutturare casa in zona sismica a L'Aquila: miglioramento sismico, parti strutturali, pratiche e quando serve un ingegnere. Guida pratica NVN Impresa Edile.",
+  h1: "Ristrutturare in Zona Sismica a L'Aquila: Cosa Cambia e a Chi Rivolgersi",
+  date: '2026-10-11',
+  category: 'Guide Tecniche',
+  image: 'work-ristrutturazione-completa.jpg',
+  imageAlt: "Squadra di operai al lavoro su un cantiere di ristrutturazione a L'Aquila",
+  excerpt: "L'Aquila è una zona ad alta sismicità: ogni ristrutturazione che sfiora le strutture richiede attenzione in più. Cosa si può fare liberamente, cosa richiede un progetto strutturale.",
+  body: `
+      <p>Ristrutturare a L'Aquila significa farlo in un territorio ad alta sismicità. Questo non rende impossibile nessun lavoro, ma cambia le regole su alcuni interventi: capire quali è il primo passo per un cantiere sicuro e in regola.</p>
+
+      <h2>Lavori che Non Toccano la Struttura</h2>
+      <p>Molti interventi riguardano solo finiture e impianti: pavimenti, rivestimenti, bagni, impianti, tinteggiature, <a href="../servizi/cartongesso-laquila.html">cartongesso</a> e tramezzi non portanti. In questi casi non si interviene sugli elementi strutturali e l'iter è quello ordinario. Per i dettagli sulle pratiche leggi la guida su <a href="cila-scia-permesso-di-costruire-quale-serve.html">CILA, SCIA e permesso di costruire</a>.</p>
+
+      <h2>Lavori che Toccano la Struttura</h2>
+      <p>Servono attenzioni particolari per interventi come:</p>
+      <ul>
+        <li>Aprire o allargare vani nei muri portanti</li>
+        <li>Demolire o spostare pareti con funzione strutturale</li>
+        <li>Intervenire su solai, travi, pilastri e fondazioni</li>
+        <li>Modificare o sostituire la copertura, quando incide su carichi e collegamenti</li>
+        <li>Sopraelevare o ampliare</li>
+      </ul>
+      <p>In questi casi non si improvvisa: serve un <strong>progetto strutturale firmato da un tecnico abilitato</strong> e gli adempimenti sismici previsti dalla normativa, prima di aprire il cantiere.</p>
+
+      <h2>Miglioramento e Adeguamento Sismico</h2>
+      <p>Una ristrutturazione può essere l'occasione giusta per migliorare la sicurezza dell'edificio: collegamenti tra muri e solai, cerchiature, rinforzi o sostituzione di coperture troppo pesanti. Il tecnico valuta lo stato dell'immobile e propone gli interventi sensati. L'edificio a L'Aquila può avere storie diverse — originale, danneggiato e riparato, ricostruito — e la valutazione parte sempre da quello che c'è.</p>
+
+      <h2>Ricostruzione e Documentazione: Non Perdere i Documenti</h2>
+      <p>Se la tua casa è stata oggetto di lavori di riparazione o ricostruzione dopo il 2009, conserva la documentazione dei lavori e dei progetti: ti sarà utile per qualsiasi nuova ristrutturazione, per la vendita e per eventuali verifiche. Il tecnico ti dirà quali documenti servono.</p>
+
+      <h2>Perché Affidarsi a un'Impresa che Conosce il Territorio</h2>
+      <p>Conoscere materiali, tecniche e abitudini costruttive della zona, e lavorare con tecnici locali, riduce rischi e imprevisti. NVN Impresa Edile lavora a L'Aquila e nelle frazioni limitrofe — <a href="../zone/ristrutturazioni-laquila.html">scopri dove operiamo</a> — e coordina progettisti e strutturisti quando il progetto lo richiede.</p>
+      <div class="info-box"><p>Vuoi sapere se i tuoi lavori toccano la struttura? Chiamaci al 339 713 9941 o <a href="../contatti.html">scrivici</a>: sopralluogo gratuito e indicazioni chiare. Leggi anche <a href="quando-serve-progettista-ristrutturazione.html">quando serve un progettista</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturazione-chiavi-in-mano-cosa-include',
+  title: "Ristrutturazione Chiavi in Mano: Cosa Include e Quando Conviene",
+  metaDesc: "Cosa significa ristrutturazione chiavi in mano: lavori inclusi, vantaggi, costi e differenze rispetto alla gestione separata degli artigiani. Guida per L'Aquila.",
+  h1: "Ristrutturazione Chiavi in Mano: Cosa Include Davvero e Quando Conviene",
+  date: '2026-10-11',
+  category: 'Guide Pratiche',
+  image: 'work-chiavi-in-mano.jpg',
+  imageAlt: "Cucina componibile verde salvia con piano in legno, parte di una ristrutturazione chiavi in mano NVN",
+  excerpt: "Un unico referente per tutto il cantiere: cosa comprende una ristrutturazione chiavi in mano, a chi conviene e cosa chiedere nel contratto prima di firmare.",
+  body: `
+      <p>"Chiavi in mano" significa che un'unica impresa si prende in carico l'intero percorso: dal progetto alla consegna dell'immobile finito. È la formula pensata per chi non vuole inseguire artigiani diversi, coordinare date e risolvere imprevisti da solo.</p>
+
+      <h2>Cosa Comprende</h2>
+      <ul>
+        <li><strong>Sopralluogo e progetto</strong>, con il coordinamento dei tecnici per le <a href="cila-scia-permesso-di-costruire-quale-serve.html">pratiche edilizie</a></li>
+        <li><strong>Demolizioni e smaltimento</strong> dei materiali di risulta</li>
+        <li><strong>Opere murarie</strong>: tramezzi, massetti, intonaci, <a href="../servizi/cartongesso-laquila.html">cartongesso</a></li>
+        <li><strong>Impianti</strong>: elettrico, idraulico, riscaldamento e climatizzazione — vedi <a href="impianto-elettrico-a-norma-quando-rifarlo.html">impianto elettrico a norma</a></li>
+        <li><strong>Pavimenti, rivestimenti e bagni</strong>, anche con scelta dei materiali insieme al cliente</li>
+        <li><strong>Serramenti, porte e finiture</strong></li>
+        <li><strong>Tinteggiatura</strong> e pulizia finale del cantiere</li>
+      </ul>
+      <p>Cosa è incluso esattamente va scritto nel preventivo: le voci non comprese (ad esempio la cucina o l'arredo) devono essere chiare fin dall'inizio.</p>
+
+      <h2>I Vantaggi</h2>
+      <ul>
+        <li><strong>Un solo responsabile</strong>: niente rimpalli di responsabilità tra artigiani diversi</li>
+        <li><strong>Tempi coordinati</strong>: le lavorazioni si susseguono nell'ordine giusto, senza tempi morti</li>
+        <li><strong>Budget più chiaro</strong>: un computo unico, voce per voce</li>
+        <li><strong>Documentazione unica</strong> per fatture, conformità e detrazioni, utile per i <a href="bonus-ristrutturazione-2026-laquila.html">bonus casa</a></li>
+      </ul>
+
+      <h2>Quando Conviene (e Quando Meno)</h2>
+      <p>Conviene soprattutto per ristrutturazioni complete o su più ambienti, dove le lavorazioni sono molte e interdipendenti, e per chi abita fuori L'Aquila o ha poco tempo. Per un piccolo lavoro singolo (una sola stanza o un solo bagno) è sufficiente un intervento mirato, come il <a href="da-vasca-a-doccia-costi-tempi-laquila.html">rifacimento del bagno</a>.</p>
+
+      <h2>Cosa Chiedere Prima di Firmare</h2>
+      <ul>
+        <li>Preventivo dettagliato, voce per voce, con quantità e prezzi</li>
+        <li>Cronoprogramma con data di inizio e di consegna previste</li>
+        <li>Modalità e scadenze di pagamento, sempre tracciabili</li>
+        <li>Garanzie sui lavori e documenti di conformità degli impianti</li>
+        <li>Come vengono gestite le varianti in corso d'opera</li>
+      </ul>
+      <p>Per capire come si svolge un cantiere dall'inizio alla fine, leggi le <a href="fasi-cantiere-ristrutturazione.html">fasi del cantiere di ristrutturazione</a>.</p>
+      <div class="info-box"><p>NVN Impresa Edile offre <a href="../servizi/ristrutturazione-chiavi-in-mano-laquila.html">ristrutturazioni chiavi in mano a L'Aquila</a> e in provincia. Sopralluogo e preventivo gratuiti: 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'tinteggiatura-casa-costi-quando-rifarla',
+  title: "Tinteggiare Casa: Costi al mq, Preparazione e Quando Rifarla",
+  metaDesc: "Quanto costa tinteggiare casa: prezzi indicativi al mq, preparazione delle pareti, tipi di pittura e ogni quanto rifarla. Guida pratica a L'Aquila.",
+  h1: "Tinteggiare Casa: Quanto Costa, Come si Prepara e Ogni Quanto Rifarlo",
+  date: '2026-10-11',
+  category: 'Costi e Preventivi',
+  image: 'work-imbiancatura.jpg',
+  imageAlt: "Pareti bianche appena tinteggiate in una stanza con soffitto in travi di legno, NVN Impresa Edile",
+  excerpt: "Il costo di una tinteggiatura cambia molto in base alla preparazione delle pareti. Prezzi indicativi, tipi di pittura e come capire quando è il momento di rifare le pareti.",
+  body: `
+      <p>Una tinteggiatura fatta bene rinnova la casa più di quasi qualunque altro intervento, a costi contenuti. Ma "quanto costa imbiancare?" non ha una risposta unica: dipende soprattutto da quanto lavoro serve <em>prima</em> della pittura.</p>
+
+      <h2>Quanto Costa Tinteggiare Casa</h2>
+      <p>Come fascia indicativa, per una tinteggiatura interna con prodotti di buona qualità, manodopera inclusa:</p>
+      <ul>
+        <li><strong>Pareti in buone condizioni</strong> (due mani di pittura): indicativamente 8 – 12 €/mq</li>
+        <li><strong>Pareti da preparare</strong> (stuccatura, carteggiatura, fissativo): 12 – 18 €/mq</li>
+        <li><strong>Soffitti, rimozione di vecchie pitture o carta da parati</strong>: voci a parte, valutate con il sopralluogo</li>
+      </ul>
+      <p>Un appartamento di 80 mq calpestabili ha circa 200-240 mq di superficie di pareti e soffitti da trattare, quindi il costo totale varia molto con la preparazione. Sono stime di orientamento: servono sempre misure e un sopralluogo per un preventivo preciso.</p>
+
+      <h2>La Preparazione Fa la Differenza</h2>
+      <p>Una tinteggiatura dura se la parete sotto è sana. Le fasi corrette sono:</p>
+      <ol>
+        <li><strong>Protezione</strong> di pavimenti, infissi e arredi</li>
+        <li><strong>Rimozione</strong> di parti sfarinate, vecchie pitture che si sfogliano e muffa (dopo aver risolto la causa, vedi <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">umidità e muffa</a>)</li>
+        <li><strong>Stuccatura</strong> di buchi e crepe e carteggiatura</li>
+        <li><strong>Fissativo</strong> sulle superfici assorbenti</li>
+        <li><strong>Due mani</strong> di pittura, con tempi di asciugatura rispettati</li>
+      </ol>
+
+      <h2>Che Pittura Scegliere</h2>
+      <ul>
+        <li><strong>Pittura traspirante</strong>: ideale per ambienti con rischio di umidità e per murature antiche</li>
+        <li><strong>Lavabile</strong>: per corridoi, camere dei bambini e zone di passaggio</li>
+        <li><strong>Antimuffa</strong>: per bagni e cucine, come supporto — mai come soluzione a un'umidità non risolta</li>
+        <li><strong>Per esterni</strong>: prodotti resistenti ad acqua, gelo e raggi UV, importanti nel nostro clima</li>
+      </ul>
+
+      <h2>Ogni Quanto Rifare le Pareti</h2>
+      <p>In media, gli ambienti interni si ritinteggiano ogni <strong>5-8 anni</strong>, prima in cucine e zone molto frequentate; le facciate esterne ogni 8-12 anni circa, secondo l'esposizione. Se compaiono macchie, sfogliature o muffa, non aspettare: capire la causa può evitare danni più costosi. Se la tinteggiatura rientra in una ristrutturazione completa, controlla anche la <a href="bonus-ristrutturazione-2026-laquila.html">guida alle detrazioni</a>.</p>
+      <div class="info-box"><p>NVN Impresa Edile esegue <a href="../servizi/imbiancatura-tinteggiatura-laquila.html">imbiancatura e tinteggiatura a L'Aquila</a>, per interni ed esterni. Sopralluogo e preventivo gratuiti: 339 713 9941.</p></div>`,
+},
 ];
