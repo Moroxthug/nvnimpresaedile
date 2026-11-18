@@ -777,4 +777,320 @@ module.exports = [
       <p>In media, gli ambienti interni si ritinteggiano ogni <strong>5-8 anni</strong>, prima in cucine e zone molto frequentate; le facciate esterne ogni 8-12 anni circa, secondo l'esposizione. Se compaiono macchie, sfogliature o muffa, non aspettare: capire la causa può evitare danni più costosi. Se la tinteggiatura rientra in una ristrutturazione completa, controlla anche la <a href="bonus-ristrutturazione-2026-laquila.html">guida alle detrazioni</a>.</p>
       <div class="info-box"><p>NVN Impresa Edile esegue <a href="../servizi/imbiancatura-tinteggiatura-laquila.html">imbiancatura e tinteggiatura a L'Aquila</a>, per interni ed esterni. Sopralluogo e preventivo gratuiti: 339 713 9941.</p></div>`,
 },
+// ============================================================
+{
+  slug: 'quanto-costa-rifare-il-tetto-laquila',
+  title: "Quanto Costa Rifare il Tetto a L'Aquila: Prezzi e Fattori",
+  metaDesc: "Quanto costa rifare il tetto a L'Aquila: prezzi indicativi al mq per tetto in legno, coibentazione e manto, tempi dei lavori e cosa incide sul preventivo.",
+  h1: "Quanto Costa Rifare il Tetto a L'Aquila: Prezzi Indicativi e Fattori che Contano",
+  date: '2026-11-17',
+  category: 'Costi e Preventivi',
+  image: 'feat-news-tetti.jpg',
+  imageAlt: "Struttura di copertura in legno con travi a vista, cantiere NVN Impresa Edile",
+  excerpt: "Rifacimento completo, solo manto o struttura in legno: le fasce di prezzo del tetto e cosa fa salire il preventivo in un territorio con neve e forti escursioni termiche.",
+  body: `
+      <p>Il tetto è la parte della casa che lavora di più: neve, pioggia, gelo e sole d'estate. Quando arriva il momento di rifarlo, il preventivo può sembrare una scatola nera. Vediamo da cosa dipende e quali sono gli ordini di grandezza.</p>
+
+      <h2>Le Fasce di Prezzo (Indicative)</h2>
+      <ul>
+        <li><strong>Rifacimento del solo manto di copertura</strong> (tegole o coppi, mantenendo la struttura): indicativamente 80 – 150 €/mq</li>
+        <li><strong>Rifacimento con coibentazione e impermeabilizzazione</strong>: 150 – 250 €/mq</li>
+        <li><strong>Rifacimento completo con nuova struttura in legno</strong>, isolamento e manto: 250 – 450 €/mq e oltre, secondo luci, finiture e travi a vista</li>
+      </ul>
+      <p><em>Sono stime di orientamento per il nostro territorio: il prezzo reale richiede sopralluogo, misure e valutazione dello stato della struttura esistente.</em></p>
+
+      <h2>Cosa Fa Variare il Preventivo</h2>
+      <ul>
+        <li><strong>Stato della struttura</strong>: travi ammalorate vanno sostituite o consolidate prima di tutto</li>
+        <li><strong>Pendenze e geometria</strong>: falde multiple, abbaini e comignoli aumentano le lavorazioni</li>
+        <li><strong>Isolamento e ventilazione</strong>: il pacchetto di copertura incide molto su comfort e consumi</li>
+        <li><strong>Accessibilità e ponteggi</strong>: strade strette o accessi difficili alzano i costi di cantiere</li>
+        <li><strong>Lattonerie</strong>: grondaie, pluviali e scossaline vanno rifatte insieme per non lasciare punti deboli</li>
+      </ul>
+
+      <h2>Tempi del Cantiere</h2>
+      <p>Per una casa di dimensioni standard, un rifacimento completo richiede in genere <strong>alcune settimane</strong>, con una forte dipendenza dal meteo: per questo la bella stagione è il momento ideale. Se il tetto ha infiltrazioni, non rimandare: l'acqua rovina anche solai e pareti sottostanti (vedi la guida su <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">umidità e infiltrazioni</a>).</p>
+
+      <h2>Tetto in Legno: Quando Conviene</h2>
+      <p>La struttura in legno è leggera, offre un buon comportamento termico e permette di avere travi a vista, molto richieste nelle case di montagna e nei borghi. Approfondisci vantaggi e costi nella guida ai <a href="tetti-in-legno-vantaggi-costi.html">tetti in legno</a>. In zona sismica il progetto della copertura va sempre affidato a un tecnico: leggi <a href="ristrutturare-in-zona-sismica-laquila.html">ristrutturare in zona sismica</a>.</p>
+
+      <h2>Detrazioni e Pratiche</h2>
+      <p>Il rifacimento del tetto può rientrare tra gli interventi agevolabili, a seconda del tipo di lavoro e della pratica edilizia necessaria: verifica la <a href="bonus-ristrutturazione-2026-laquila.html">guida ai bonus casa</a> e <a href="cila-scia-permesso-di-costruire-quale-serve.html">quale titolo edilizio serve</a> prima di partire.</p>
+      <div class="info-box"><p>NVN Impresa Edile realizza <a href="../servizi/tetti-in-legno-laquila.html">tetti in legno a L'Aquila</a> e in provincia. Sopralluogo e preventivo gratuiti: 339 713 9941.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'come-leggere-un-preventivo-edile',
+  title: "Come Leggere un Preventivo Edile: Voci, Errori e Segnali di Allarme",
+  metaDesc: "Come leggere e confrontare un preventivo edile: voci da cercare, differenza tra a corpo e a misura, varianti, pagamenti e segnali di allarme da non ignorare.",
+  h1: "Come Leggere un Preventivo Edile: le Voci da Controllare Prima di Firmare",
+  date: '2026-11-17',
+  category: 'Guide Pratiche',
+  image: 'work-ristrutturazione-completa.jpg',
+  imageAlt: "Squadra di operai al lavoro su un cantiere di ristrutturazione a L'Aquila",
+  excerpt: "Due preventivi con cifre diverse non sono quasi mai confrontabili. Cosa deve contenere un preventivo serio, come distinguere 'a corpo' e 'a misura' e quali segnali non vanno ignorati.",
+  body: `
+      <p>Hai ricevuto due o tre preventivi per la tua ristrutturazione e le cifre sono molto diverse. Prima di scegliere il più basso — o il più alto — bisogna capire <em>cosa</em> c'è dentro. Ecco come leggerli.</p>
+
+      <h2>Cosa Deve Contenere un Preventivo Serio</h2>
+      <ul>
+        <li><strong>Dati dell'impresa</strong>: ragione sociale, P.IVA, contatti</li>
+        <li><strong>Descrizione dei lavori</strong> voce per voce (demolizioni, impianti, massetti, pavimenti, bagni, finiture…)</li>
+        <li><strong>Quantità e prezzi unitari</strong>: mq, ml, pezzi</li>
+        <li><strong>Materiali</strong> indicati con marca o livello di qualità, non solo "fornitura e posa"</li>
+        <li><strong>Cosa è escluso</strong> (cucina, arredi, pratiche, ponteggi, smaltimento)</li>
+        <li><strong>Tempi</strong> di inizio e consegna previsti</li>
+        <li><strong>Modalità di pagamento</strong> con acconti legati allo stato di avanzamento</li>
+      </ul>
+
+      <h2>"A Corpo" o "a Misura"</h2>
+      <p>Il preventivo <strong>a corpo</strong> indica un prezzo complessivo per un lavoro definito: rassicurante, ma solo se il progetto è chiaro e le voci sono dettagliate. Quello <strong>a misura</strong> paga le quantità realmente eseguite ai prezzi unitari concordati: è più flessibile quando le quantità non sono certe, ma richiede più controllo. In entrambi i casi la trasparenza sulle singole voci è ciò che conta.</p>
+
+      <h2>Segnali di Allarme</h2>
+      <ul>
+        <li>Preventivo generico di poche righe, senza dettagli</li>
+        <li>Cifre date <strong>al telefono, senza sopralluogo</strong></li>
+        <li>Prezzo molto più basso degli altri senza una spiegazione chiara</li>
+        <li>Richiesta di grossi acconti anticipati o pagamenti in contanti</li>
+        <li>Nessun riferimento a pratiche edilizie, sicurezza e documentazione</li>
+        <li>Pressione a decidere subito</li>
+      </ul>
+
+      <h2>Varianti e Imprevisti</h2>
+      <p>In ristrutturazione gli imprevisti esistono (una tubazione ammalorata, un solaio da sistemare). La differenza la fa il contratto: le <strong>varianti</strong> devono essere concordate prima per iscritto, con prezzo e tempi, mai a lavori fatti.</p>
+
+      <h2>Come Confrontare Davvero Due Preventivi</h2>
+      <ol>
+        <li>Metti le voci una accanto all'altra: cosa c'è in uno e non nell'altro?</li>
+        <li>Confronta i materiali, non solo i prezzi</li>
+        <li>Controlla cosa è escluso</li>
+        <li>Valuta tempi, garanzie e documentazione</li>
+      </ol>
+      <p>Se vuoi un'idea degli ordini di grandezza, parti dalla guida <a href="quanto-costa-ristrutturare-casa-laquila.html">quanto costa ristrutturare casa a L'Aquila</a> e da <a href="come-scegliere-impresa-edile-laquila.html">come scegliere l'impresa edile</a>.</p>
+      <div class="info-box"><p>Hai già un preventivo e vuoi un secondo parere? Mandacelo o chiamaci al 339 713 9941: ti diciamo con onestà cosa manca. Oppure <a href="../preventivo-ristrutturazione-laquila.html">richiedi un preventivo gratuito</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'sostituire-finestre-serramenti-quando-conviene',
+  title: "Sostituire Finestre e Serramenti: Quando Conviene e Quale Materiale",
+  metaDesc: "Quando sostituire finestre e serramenti: PVC, alluminio o legno, costi indicativi, isolamento, ricambio d'aria e abbinamento con cappotto termico.",
+  h1: "Sostituire Finestre e Serramenti: Quando Conviene, Quale Materiale e Cosa Evitare",
+  date: '2026-11-17',
+  category: 'Efficienza Energetica',
+  image: 'work-cappotto-termico.jpg',
+  imageAlt: "Cappotto termico in posa su facciata, cantiere NVN Impresa Edile a L'Aquila",
+  excerpt: "PVC, alluminio a taglio termico o legno? Quando i vecchi infissi vanno sostituiti, cosa guardare oltre al prezzo e perché i serramenti si pensano insieme all'isolamento.",
+  body: `
+      <p>I serramenti sono tra i primi responsabili delle dispersioni di calore di una casa. Ma cambiare le finestre "a caso" può anche creare problemi, come la condensa. Vediamo come ragionare.</p>
+
+      <h2>Quando Vanno Sostituiti</h2>
+      <ul>
+        <li>Spifferi, vetri singoli o vetrocamera ormai vecchi</li>
+        <li>Condensa abbondante sui vetri o sui telai</li>
+        <li>Telai deformati, che non chiudono bene</li>
+        <li>Rumore dall'esterno eccessivo</li>
+        <li>Bollette di riscaldamento molto alte rispetto alla casa</li>
+      </ul>
+
+      <h2>PVC, Alluminio a Taglio Termico o Legno?</h2>
+      <p><strong>PVC</strong>: ottimo isolamento e prezzo contenuto, bassa manutenzione. <strong>Alluminio a taglio termico</strong>: profili sottili, grandi vetrate, durata elevata, prezzo medio-alto. <strong>Legno</strong> (o legno-alluminio): calore estetico e buon isolamento, adatto a case storiche e di montagna, ma richiede manutenzione periodica. Non esiste il materiale migliore in assoluto: dipende da stile, budget ed esposizione.</p>
+
+      <h2>Cosa Guardare Oltre al Prezzo</h2>
+      <ul>
+        <li><strong>Trasmittanza termica</strong> del serramento completo (non solo del vetro)</li>
+        <li><strong>Posa</strong>: un buon serramento posato male perde gran parte dei vantaggi. Sigillature e nodo muro-telaio sono decisivi</li>
+        <li><strong>Isolamento acustico</strong> se la casa è su strada trafficata</li>
+        <li><strong>Sicurezza</strong> di ferramenta e vetri</li>
+      </ul>
+
+      <h2>Attenzione alla Condensa</h2>
+      <p>Se sostituisci finestre vecchie e "respiranti" con serramenti molto ermetici ma lasci pareti non isolate, l'umidità può spostarsi sulle pareti fredde e generare muffa. Per questo i serramenti vanno pensati insieme a isolamento e ventilazione: leggi <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">umidità e muffa in casa</a> e la guida al <a href="cappotto-termico-conviene-laquila.html">cappotto termico</a>.</p>
+
+      <h2>Costi Indicativi</h2>
+      <p>Per una finestra standard i prezzi vanno da poche centinaia a oltre 1.500 euro a infisso, secondo materiale, misura e vetro, posa inclusa; i grandi scorrevoli costano di più. È fondamentale un rilievo preciso delle misure e una scheda tecnica dei prodotti offerti.</p>
+
+      <h2>Detrazioni</h2>
+      <p>La sostituzione dei serramenti può rientrare tra gli interventi agevolati, ma i requisiti tecnici e le aliquote cambiano con la normativa: verifica sempre con il tuo commercialista e consulta la nostra <a href="bonus-ristrutturazione-2026-laquila.html">guida ai bonus casa</a>.</p>
+      <div class="info-box"><p>Stai valutando serramenti e isolamento insieme? Chiamaci al 339 713 9941: ti aiutiamo a impostare l'intervento giusto. Scopri anche il servizio di <a href="../servizi/cappotto-termico-laquila.html">cappotto termico a L'Aquila</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturare-casa-in-pietra-borghi-abruzzo',
+  title: "Ristrutturare una Casa in Pietra nei Borghi d'Abruzzo: Guida",
+  metaDesc: "Ristrutturare una casa in pietra nei borghi abruzzesi: consolidamento, isolamento, umidità, tetto e vincoli. Consigli pratici per Pizzoli, Barisciano e dintorni.",
+  h1: "Ristrutturare una Casa in Pietra nei Borghi d'Abruzzo: Cosa Sapere",
+  date: '2026-11-17',
+  category: 'Guide Tecniche',
+  image: 'work-tetto-legno.jpg',
+  imageAlt: "Struttura di copertura in legno con travi a vista, cantiere NVN Impresa Edile",
+  excerpt: "Muri spessi, pietra a vista, travi di legno: le case dei borghi hanno un fascino unico e problemi specifici. Dove intervenire per prime e cosa conservare.",
+  body: `
+      <p>Chi ha ereditato o comprato una casa in pietra in uno dei borghi attorno a L'Aquila — da <a href="../zone/ristrutturazioni-pizzoli.html">Pizzoli</a> a <a href="../zone/ristrutturazioni-barisciano.html">Barisciano</a> — sa quanto valga: muri spessi, pietra, volte, travi di legno. Sa anche che ristrutturarla richiede un approccio diverso da quello di un appartamento moderno.</p>
+
+      <h2>1. Prima di Tutto: la Diagnosi Strutturale</h2>
+      <p>Gli edifici in muratura di pietra sono sensibili a sisma e infiltrazioni. Prima di qualsiasi finitura, un tecnico valuta lo stato di murature, solai e copertura, eventuali interventi pregressi e i punti critici. Dettagli nella guida su <a href="ristrutturare-in-zona-sismica-laquila.html">ristrutturare in zona sismica</a>.</p>
+
+      <h2>2. Il Tetto e l'Acqua</h2>
+      <p>Il nemico principale di una casa in pietra è l'acqua: tetti, grondaie e scarichi in buono stato proteggono le murature. Un <a href="tetti-in-legno-vantaggi-costi.html">tetto in legno</a> ben progettato valorizza anche l'estetica interna con le travi a vista.</p>
+
+      <h2>3. Umidità: Gestirla, non Sigillarla</h2>
+      <p>Le murature antiche "respirano": per questo i trattamenti vanno scelti con cura. Intonaci traspiranti e deumidificanti sono spesso preferibili a rivestimenti impermeabili, che intrappolano l'umidità. Approfondisci in <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">umidità e muffa in casa</a>.</p>
+
+      <h2>4. Isolamento Senza Rinunciare alla Pietra</h2>
+      <p>Il muro spesso isola bene d'estate ma meno d'inverno. Se la pietra va lasciata a vista, un cappotto esterno non è possibile: si lavora sul lato interno con materiali traspiranti, sul tetto e sui serramenti. È un equilibrio tra comfort, estetica e vincoli.</p>
+
+      <h2>5. Impianti Moderni in Muri Antichi</h2>
+      <p>Far passare impianti elettrici, idraulici e riscaldamento in murature spesse richiede progettazione: tracce limitate, controparete in <a href="cartongesso-pareti-controsoffitti-guida.html">cartongesso</a> dove serve, scelte che non indeboliscano la struttura. Rifare l'impianto è quasi sempre necessario: leggi <a href="impianto-elettrico-a-norma-quando-rifarlo.html">impianto elettrico a norma</a>.</p>
+
+      <h2>6. Pratiche e Vincoli</h2>
+      <p>Nei centri storici possono esserci vincoli paesaggistici o regole sulle facciate e sui materiali: il tecnico verifica prima di tutto. Per capire il titolo edilizio, vedi <a href="cila-scia-permesso-di-costruire-quale-serve.html">CILA, SCIA o permesso di costruire</a>.</p>
+      <div class="info-box"><p>Lavoriamo nei borghi e nelle frazioni entro un raggio di circa 15 km da L'Aquila. Se hai una casa in pietra da recuperare, chiamaci al 339 713 9941: sopralluogo gratuito e consigli onesti su cosa conviene fare. Vedi le <a href="../zone.html">zone in cui operiamo</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturare-appartamento-da-affittare-laquila',
+  title: "Ristrutturare un Appartamento da Affittare a L'Aquila: Come Fare Rendere",
+  metaDesc: "Ristrutturare casa per affittarla a L'Aquila (studenti, lavoratori, turisti): budget, finiture durevoli, impianti, efficienza energetica e detrazioni.",
+  h1: "Ristrutturare un Appartamento da Affittare a L'Aquila: Cosa Fare per Farlo Rendere",
+  date: '2026-11-17',
+  category: 'Guide Pratiche',
+  image: 'work-chiavi-in-mano.jpg',
+  imageAlt: "Cucina componibile verde salvia con piano in legno, parte di una ristrutturazione chiavi in mano NVN",
+  excerpt: "Studenti universitari, lavoratori, famiglie: un appartamento ben ristrutturato si affitta prima e meglio. Dove investire, dove risparmiare e come ridurre le spese future.",
+  body: `
+      <p>L'Aquila ha una domanda di affitti stabile legata all'università, agli ospedali, agli enti e ai lavoratori in trasferta. Ristrutturare un appartamento per metterlo a reddito è un investimento che va impostato con logica diversa da quella della casa in cui si vive: contano durata, manutenzione ridotta e costi controllati.</p>
+
+      <h2>1. Parti dal Tipo di Inquilino</h2>
+      <p>Uno studente cerca spazi funzionali, camere ben distribuite, buona connessione e consumi contenuti; una famiglia cerca più comfort e spazio; un lavoratore in trasferta cerca un monolocale o bilocale pronto e semplice da gestire. Il progetto cambia di conseguenza: più camere dove ha senso, bagni funzionali, cucine pratiche.</p>
+
+      <h2>2. Dove Investire (con Priorità)</h2>
+      <ul>
+        <li><strong>Impianti a norma</strong>: elettrico e idraulico sicuri evitano problemi e responsabilità — vedi <a href="impianto-elettrico-a-norma-quando-rifarlo.html">impianto elettrico a norma</a></li>
+        <li><strong>Isolamento e serramenti</strong>: bollette basse sono un argomento forte per l'inquilino e riducono muffa e contestazioni (<a href="sostituire-finestre-serramenti-quando-conviene.html">serramenti</a>, <a href="cappotto-termico-conviene-laquila.html">cappotto</a>)</li>
+        <li><strong>Bagno</strong>: moderno, facile da pulire, con doccia — leggi <a href="da-vasca-a-doccia-costi-tempi-laquila.html">da vasca a doccia</a></li>
+        <li><strong>Pavimenti resistenti</strong>: gres, che regge usura e pulizie intense (<a href="pavimenti-guida-gres-parquet-resina.html">guida pavimenti</a>)</li>
+      </ul>
+
+      <h2>3. Dove Contenere la Spesa</h2>
+      <p>Evita finiture di lusso difficili da ripagare con il canone: scegli materiali robusti, colori neutri e arredi essenziali. Una <a href="tinteggiatura-casa-costi-quando-rifarla.html">tinteggiatura</a> con pitture lavabili facilita ritocchi tra un inquilino e l'altro.</p>
+
+      <h2>4. Detrazioni e Aspetti Fiscali</h2>
+      <p>Per le unità non adibite ad abitazione principale le aliquote di detrazione sono in genere inferiori a quelle della prima casa: vedi la <a href="bonus-ristrutturazione-2026-laquila.html">guida ai bonus casa</a> e confrontati con il commercialista anche sul regime di tassazione dell'affitto.</p>
+
+      <h2>5. Tempi: Ogni Mese Vuoto è Reddito Perso</h2>
+      <p>Un cantiere ben pianificato, con tempi certi e consegna chiavi in mano, ti permette di affittare prima. Un'impresa che gestisce tutto — impianti, murature, finiture — riduce il rischio di ritardi: scopri <a href="ristrutturazione-chiavi-in-mano-cosa-include.html">cosa include una ristrutturazione chiavi in mano</a>.</p>
+      <div class="info-box"><p>Hai un appartamento da mettere a reddito? Chiamaci al 339 713 9941: sopralluogo gratuito e preventivo dettagliato, con le soluzioni più sensate per il tuo budget. Vedi la pagina <a href="../servizi/ristrutturazioni-laquila.html">ristrutturazioni a L'Aquila</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'cappotto-interno-o-esterno-differenze',
+  title: "Cappotto Termico Interno o Esterno: Differenze e Quando Scegliere",
+  metaDesc: "Cappotto interno o esterno? Differenze, vantaggi, limiti e costi indicativi: quando conviene isolare dall'esterno e quando dall'interno, anche in case storiche.",
+  h1: "Cappotto Termico Interno o Esterno: Differenze e Come Scegliere",
+  date: '2026-11-17',
+  category: 'Efficienza Energetica',
+  image: 'work-cappotto-termico.jpg',
+  imageAlt: "Cappotto termico in posa su facciata, cantiere NVN Impresa Edile a L'Aquila",
+  excerpt: "Isolare dall'esterno è quasi sempre la soluzione migliore, ma non sempre è possibile. Vantaggi e limiti dei due sistemi, e il caso delle case storiche e dei condomìni.",
+  body: `
+      <p>Quando si decide di isolare una casa, la prima domanda è: dentro o fuori? Le due soluzioni hanno funzionamenti, costi e limiti diversi. Vediamole a confronto.</p>
+
+      <h2>Cappotto Esterno</h2>
+      <p>I pannelli isolanti vengono applicati sulla facciata e rifiniti con intonaco. <strong>Vantaggi</strong>: avvolge l'edificio e riduce i ponti termici, protegge la muratura dagli sbalzi di temperatura, non riduce lo spazio abitabile, e permette di rinnovare anche l'aspetto della facciata. <strong>Limiti</strong>: richiede ponteggi e autorizzazioni, non è sempre possibile (facciate vincolate, confini, condomìni), costa di più nell'immediato.</p>
+
+      <h2>Cappotto Interno</h2>
+      <p>I pannelli si applicano sul lato interno delle pareti perimetrali. <strong>Vantaggi</strong>: costo e cantiere più contenuti, si può fare appartamento per appartamento, è l'unica strada quando la facciata va conservata (pietra a vista, edifici storici). <strong>Limiti</strong>: riduce la superficie interna, non elimina bene i ponti termici ai solai e alle pareti divisorie, e se progettato male può creare condensa nella parete. Richiede materiali e stratigrafia scelti da un tecnico.</p>
+
+      <h2>Quale Scegliere</h2>
+      <ul>
+        <li><strong>Casa indipendente, facciata da rifare</strong> → esterno: il momento ideale è insieme al <a href="rifacimento-facciate-quando-farlo-bonus.html">rifacimento della facciata</a></li>
+        <li><strong>Edificio storico o con pietra a vista</strong> → interno, con materiali traspiranti (vedi <a href="ristrutturare-casa-in-pietra-borghi-abruzzo.html">case in pietra nei borghi</a>)</li>
+        <li><strong>Appartamento in condominio</strong> → spesso interno, salvo delibera condominiale per il cappotto esterno</li>
+        <li><strong>Ristrutturazione completa in corso</strong> → ottimo momento per integrare l'isolamento</li>
+      </ul>
+
+      <h2>Costi Indicativi</h2>
+      <p>I costi dipendono da spessore, materiale e finiture. Il cappotto esterno comprende anche ponteggi e finitura di facciata, quindi ha un costo complessivo maggiore del cappotto interno, che invece ha più opere di ripristino interno (impianti, battiscopa, tinteggiatura). Per un'analisi sul tuo caso serve un sopralluogo.</p>
+
+      <h2>Vale la Pena?</h2>
+      <p>Nel nostro clima, con inverni lunghi e freddi, un buon isolamento riduce i consumi e il rischio di muffa: ne parliamo in <a href="cappotto-termico-conviene-laquila.html">il cappotto termico conviene?</a> e in <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">umidità e muffa in casa</a>. Per le detrazioni vigenti, consulta la <a href="bonus-ristrutturazione-2026-laquila.html">guida ai bonus casa</a>.</p>
+      <div class="info-box"><p>Non sai quale soluzione adottare? Chiamaci al 339 713 9941: valutiamo muratura, esposizione e vincoli, e ti proponiamo la strada migliore. Vedi il servizio <a href="../servizi/cappotto-termico-laquila.html">cappotto termico a L'Aquila</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'riscaldamento-a-pavimento-in-ristrutturazione',
+  title: "Riscaldamento a Pavimento in Ristrutturazione: Conviene?",
+  metaDesc: "Riscaldamento a pavimento in una ristrutturazione: vantaggi, limiti, altezza dei massetti, pavimenti compatibili e quando conviene davvero. Guida per L'Aquila.",
+  h1: "Riscaldamento a Pavimento in Ristrutturazione: Quando Conviene e Cosa Serve",
+  date: '2026-11-17',
+  category: 'Guide Tecniche',
+  image: 'work-pavimenti.jpg',
+  imageAlt: "Posa di pavimento in gres porcellanato effetto legno, cantiere NVN Impresa Edile",
+  excerpt: "Comfort uniforme e niente termosifoni, ma non per ogni casa. Vantaggi, limiti (altezza, tempi, pavimenti) e le condizioni in cui il radiante ha davvero senso.",
+  body: `
+      <p>Il riscaldamento a pavimento è tra le richieste più frequenti nelle ristrutturazioni complete. Offre comfort e libertà di arredo, ma non è adatto a ogni situazione: ecco come valutarlo.</p>
+
+      <h2>Come Funziona</h2>
+      <p>Tubazioni percorse da acqua a bassa temperatura sono annegate nel massetto: il calore si distribuisce dal basso in modo uniforme. Lavora a temperature più basse dei termosifoni, ed è perciò ideale con <strong>pompa di calore</strong> o caldaie a condensazione.</p>
+
+      <h2>I Vantaggi</h2>
+      <ul>
+        <li>Calore uniforme, senza zone fredde</li>
+        <li>Niente termosifoni: più libertà per arredi e pareti</li>
+        <li>Buon rendimento con generatori a bassa temperatura</li>
+        <li>Meno movimenti di polvere rispetto ad altri sistemi</li>
+      </ul>
+
+      <h2>I Limiti da Conoscere</h2>
+      <ul>
+        <li><strong>Altezza</strong>: serve spazio per isolante, tubazioni e massetto; in case con soffitti bassi o soglie da rispettare può essere un problema (esistono sistemi a basso spessore)</li>
+        <li><strong>Tempi di risposta</strong> più lenti: è un impianto "inerziale", adatto a case abitate con regolarità, meno a case usate sporadicamente</li>
+        <li><strong>Edifici poco isolati</strong>: a bassa temperatura il radiante può non bastare se la casa disperde molto — conta isolare prima, vedi <a href="cappotto-termico-conviene-laquila.html">cappotto termico</a></li>
+        <li><strong>Costo</strong>: maggiore di quello dei termosifoni, ma bilanciato dal rendimento in alcuni casi</li>
+      </ul>
+
+      <h2>Pavimenti Compatibili</h2>
+      <p>Il <strong>gres porcellanato</strong> è il materiale migliore per trasmettere il calore. Il parquet è possibile con essenze e spessori adatti; la resina funziona bene se posata correttamente. Dettagli nella guida a <a href="pavimenti-guida-gres-parquet-resina.html">gres, parquet e resina</a>.</p>
+
+      <h2>Quando Conviene Davvero</h2>
+      <p>È indicato quando si rifà tutto il pavimento (così massetto e impianto si fanno una volta sola), quando la casa è ben isolata e quando si abbina a pompa di calore. Se invece cambi solo pavimenti in una casa già finita, spesso è più sensato valutare altre soluzioni. Per pianificare gli interventi nell'ordine giusto, leggi le <a href="fasi-cantiere-ristrutturazione.html">fasi del cantiere</a>.</p>
+      <div class="info-box"><p>Stai ristrutturando e vuoi capire se il radiante fa per te? Chiamaci al 339 713 9941 per un sopralluogo gratuito. Scopri anche i servizi di <a href="../servizi/pavimenti-rivestimenti-laquila.html">pavimenti e rivestimenti</a>.</p></div>`,
+},
+// ============================================================
+{
+  slug: 'ristrutturare-casa-prima-di-vendere-conviene',
+  title: "Ristrutturare Casa Prima di Vendere: Quando Conviene",
+  metaDesc: "Ristrutturare prima di vendere casa a L'Aquila: quali lavori aumentano il valore, quali no, quanto spendere e come presentare l'immobile per venderlo meglio.",
+  h1: "Ristrutturare Casa Prima di Vendere: Quali Lavori Fanno Salire il Valore",
+  date: '2026-11-17',
+  category: 'Guide Pratiche',
+  image: 'work-imbiancatura.jpg',
+  imageAlt: "Pareti bianche appena tinteggiate in una stanza con soffitto in travi di legno, NVN Impresa Edile",
+  excerpt: "Non tutti i lavori si ripagano in vendita. Quali interventi aumentano il valore percepito, quali conviene lasciare all'acquirente e come evitare di spendere troppo.",
+  body: `
+      <p>Prima di mettere in vendita una casa, molti proprietari si chiedono se vale la pena ristrutturare. La risposta dipende da cosa si fa: alcuni interventi si ripagano, altri no.</p>
+
+      <h2>Gli Interventi che di Solito Convengono</h2>
+      <ul>
+        <li><strong>Tinteggiatura</strong> degli ambienti: costo contenuto, effetto enorme sulla percezione. Vedi <a href="tinteggiatura-casa-costi-quando-rifarla.html">costi e preparazione</a></li>
+        <li><strong>Sistemazione di umidità e infiltrazioni</strong>: macchie di muffa allontanano gli acquirenti più di qualsiasi finitura — <a href="umidita-muffa-infiltrazioni-cause-rimedi.html">guida alle cause</a></li>
+        <li><strong>Bagno e cucina in ordine</strong>: non servono lussi, ma ambienti puliti, funzionali e moderni</li>
+        <li><strong>Regolarità edilizia e impianti</strong>: pratiche in regola e impianti a norma rassicurano acquirenti e banche (<a href="impianto-elettrico-a-norma-quando-rifarlo.html">impianto a norma</a>)</li>
+      </ul>
+
+      <h2>Quelli che Spesso Non si Ripagano</h2>
+      <ul>
+        <li>Finiture di pregio molto personali, difficili da apprezzare per tutti</li>
+        <li>Ristrutturazioni complete molto costose in zone in cui il prezzo al mq non le giustifica</li>
+        <li>Cambi di distribuzione importanti senza una chiara richiesta di mercato</li>
+      </ul>
+      <p>Molti acquirenti preferiscono comprare "da ristrutturare" a un prezzo più basso e personalizzare. L'equilibrio sta nel presentare una casa sana e curata, senza trasformarla in un cantiere da migliaia di euro.</p>
+
+      <h2>Verificare la Regolarità Prima di Vendere</h2>
+      <p>La conformità urbanistica e catastale è fondamentale per vendere senza sorprese. Eventuali difformità vanno sanate con la pratica corretta: vedi <a href="cila-scia-permesso-di-costruire-quale-serve.html">CILA, SCIA o permesso di costruire</a>. Se la casa ha subito lavori di ricostruzione, raccogli la documentazione: è molto richiesta.</p>
+
+      <h2>Quanto Spendere</h2>
+      <p>Una regola semplice: confronta il costo del lavoro con l'aumento di prezzo che puoi ragionevolmente ottenere, chiedendo una valutazione a un agente immobiliare della zona. Per ogni intervento chiedi un preventivo dettagliato: <a href="come-leggere-un-preventivo-edile.html">come leggerlo</a>.</p>
+      <div class="info-box"><p>Prima di vendere, un sopralluogo ti aiuta a capire cosa serve davvero e cosa è superfluo. Chiamaci al 339 713 9941: sopralluogo e preventivo gratuiti. Scopri i <a href="../servizi/imbiancatura-tinteggiatura-laquila.html">servizi di tinteggiatura</a> e <a href="../servizi/ristrutturazioni-laquila.html">ristrutturazione</a>.</p></div>`,
+},
 ];
